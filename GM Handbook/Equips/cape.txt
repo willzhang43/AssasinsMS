@@ -1,0 +1,135 @@
+Capes		
+ID	Name	Description
+1102000	Green Napoleon	
+1102001	Blue Napoleon	
+1102002	Red Napoleon	
+1102003	White Napoleon	
+1102004	Black Napoleon	
+1102005	Baby Angel Wings	
+1102006	Devil Wings	
+1102007	Yellow Star Cape	
+1102008	Blue Star Cape	
+1102009	Red Star Cape	
+1102010	Black Star Cape	
+1102011	Blue Justice Cape	
+1102012	Red Justice Cape	
+1102013	White Justice Cape	
+1102014	Black Justice Cape	
+1102015	Blue Magic Cape	
+1102016	Red Magic Cape	
+1102017	White Magic Cape	
+1102018	Black Magic Cape	
+1102019	Korean-Flagged Cape	
+1102020	Turtle Shell	
+1102021	Blue Gaia Cape	
+1102022	Red Gaia Cape	
+1102023	White Gaia Cape	
+1102024	Black Gaia Cape	
+1102025	Red Hood	
+1102026	Green Seraph Cape	
+1102027	Blue Seraph Cape	
+1102028	Red Seraph Cape	
+1102029	White Seraph Cape	
+1102030	Black Seraph Cape	
+1102031	Green Giles Cape	
+1102032	Purple Giles Cape	
+1102033	Red Giles Cape	
+1102034	Blue Giles Cape	
+1102035	Black Giles Cape	
+1102036	Red Landcell Pack	
+1102037	Black Landcell Pack	
+1102038	Blue Landcell Pack	
+1102039	Transparent Cape	Use this Cape if you want to make your Cape transparent while still using all of the stats the Cape possesses.
+1102040	Yellow Adventurer Cape	A yellow cape for the prototypical adventurer.
+1102041	Pink Adventurer Cape	A pink cape for the prototypical adventurer.
+1102042	Purple Adventurer Cape	A purple cape for the prototypical adventurer.
+1102043	Brown Adventurer Cape	A brown cape for the prototypical adventurer.
+1102044	Red G-Wing Jetpack	
+1102045	Blue G-Wing Jetpack	
+1102046	Blue Musketeer Cape	
+1102047	Turquoise Musketeer Cape	
+1102048	Red Musketeer Cape	
+1102049	Blue Nymph Wing	
+1102050	Green Nymph Wing	
+1102051	Yellow Nymph Wing	
+1102052	Pink Nymph Wing	
+1102053	Old Raggedy Cape	
+1102054	Icarus Cape (1)	
+1102055	Icarus Cape (2)	
+1102056	Icarus Cape (3)	
+1102057	Ludibrium Cape	
+1102058	Gargoyle Wings	
+1102059	Michael Wings	
+1102060	Pink Ribbon	
+1102061	Oxygen Tank	
+1102062	Martial Cape	
+1102063	Fallen Angel Wings	
+1102064	Goblin Cape	
+1102065	Christmas Cape	
+1102066	Dracula Cloak	
+1102067	Tiger Tail	
+1102068	Harpie Cape	
+1102069	Pink Wings	
+1102070	Blue Book Bag	
+1102072	Yellow-Green Backpack	
+1102073	Hot Pink Backpack	
+1102074	Dragonfly Wings	
+1102075	Bat's Bane	
+1102076	Newspaper Cape	
+1102077	Cotton Blanket	
+1102078	Eclipse Cloak	
+1102079	Ragged Red Cape	
+1102080	Ragged Blue Cape	
+1102081	Ragged Yellow Cape	
+1102082	Ragged Black Cape	
+1102083	Ragged Red Cape	
+1102084	Pink Gaia Cape	
+1102085	Yellow Gaia Cape	
+1102086	Purple Gaia Cape	
+1102087	Green Gaia Cape	
+1102091	Summer Kite	
+1102092	Cuddle Bear	
+1102093	Heart Balloon	
+1102094	Sun Wu Kong Tail	
+1102095	Veamoth Wings	
+1102096	Sachiel Wings	
+1102097	Janus Wings	
+1102098	Coffin of Gloom	
+1102099	Amos' Royal Cape	
+1102100	Amos' Spirit Cape	
+1102101	The Legendary Elias Cape 1	
+1102102	The Legendary Elias Cape 2	
+1102103	The Legendary Elias Cape 3	
+1102104	Cecelia Cloak 1	
+1102105	Cecelia Cloak 2	
+1102106	Cecelia Cloak 3	
+1102107	Rocket Booster	
+1102108	Fallen Angel Tail	
+1102109	Cape of warmness	This is a magical cape made by Alcaster. When you put it on, you aren't affected by Elnas's chill. It doesn't look good as Magician made it.
+1102110	Chipmunk Tail	
+1102111	Elephant Balloon	
+1102112	Bunny Doll	
+1102135	Jenumist's cape	
+1102136	Alcadno's Cape	This proves that you are a Beginner Magician from Alcadno.
+1102137	Orange Mushroom Balloon	
+1102138	Pink wing bag	
+1102139	Zenumist's Cape	The proud owner of this cape signifies the fact that the person's a high-leveled alchemist from Zenumist
+1102140	Alcadno's Cape	The proud owner of this cape signifies the fact that the person's a high-leveled alchemist from Alcadno.
+1102141	Pepe Balloon	
+1102142	The Flaming Cape	
+1102145	Sirius Cloak	A supremely powerful cloak which enhances the wearer's speed, strength and movement in battle.
+1102146	Zeta Cape	A mysterious cape based on the Grays' alien technology. Best worn by those with mental fortitude.
+1102147	Toymaker Cape	
+1102148	Tania Cloak	
+1102149	Mercury Cloak	
+1102150	Count Dracula Cape	
+1102151	Lost Kitty	
+1102153	Sunfire Wings	
+1102154	Zakum Arms	
+1102155	My Buddy Rex	
+1102156	Aerial Wave Cape	
+1102157	Puppet Strings	
+1102158	Peacock Feather Cape	
+1102159	White Monkey Balloon	
+1102160	Baby Lupin Cape	
+1102165	Taru Spirit Cape	

@@ -1,0 +1,18 @@
+Chairs
+3010000 The Relaxer
+3010001 Sky-blue Wooden Chair
+3010002 Green Chair
+3010003 Red Chair
+3010004 The Yellow Relaxer
+3010005 The Red Relaxer
+3010006 Yellow Chair
+3010007 Pink Seal Cushion
+3010008 Blue Seal Cushion
+3010009 Red Round Chair
+3010010 White Seal Cushion
+3010011 Amorian Relaxer
+3010012 Warrior Throne
+3010013 Beach Chair
+3010014 Moon Star Chair
+3010015 The Red Relaxer
+3011000 Fishing Chair

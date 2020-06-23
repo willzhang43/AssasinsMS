@@ -1,0 +1,29 @@
+Auto Register is already enabled.
+
+
+To disable it you have to do this...
+
+In AutoRegister.java you can change these values to your preference.
+
+Change autoRegister value to true or false to enable or disable auto registration. Default is true.
+
+Find this in AutoRegister.java
+
+private static final boolean autoRegister = true; //enable = true or disable = false
+
+
+
+
+
+
+
+
+
+
+Change ACCOUNTS_PER_IP value to change how many accounts can be created on one ip. Default set to 10.
+
+
+find this....
+
+
+private static final int ACCOUNTS_PER_IP = 10; //change the value to the amount of accounts you want allowed for each ip

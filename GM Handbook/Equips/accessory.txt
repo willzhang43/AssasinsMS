@@ -1,0 +1,204 @@
+Accessorys	
+ID	Name	Description
+1010000	Long Brown Beard	
+1010001	Goatee	
+1010002	Ninja Mask for Men	
+1010003	5 O'Clock Shadow	
+1010004	General's Mustache (1)	
+1010005	General's Mustache (2)	
+1010006	Yakuza Scar	
+1011000	Ninja Mask for Women	
+1011001	SF Ninja Mask	
+1011002	Heart	
+1011003	Freckles	
+1012000	Battle Scar	
+1012001	Bindi	
+1012002	Leather Mask	
+1012003	Blush	
+1012004	Disguise	
+1012005	Bruise	
+1012006	Rose	
+1012007	Santa Beard	
+1012008	Censor	
+1012009	Kiss Mark	
+1012010	Hinomaru	
+1012011	Rudolph's Red Nose	
+1012012	Rudolph's Red Nose	
+1012013	Rudolph's Red Nose	
+1012014	Rudolph's Red Nose	
+1012015	Rudolph's Red Nose	
+1012016	Rudolph's Red Nose	
+1012017	Rudolph's Red Nose	
+1012018	Rudolph's Red Nose	
+1012019	Rudolph's Red Nose	
+1012020	Rudolph's Red Nose	
+1012021	White Kabuki Mask	
+1012022	Red Kabuki Mask	
+1012023	Yellow Kabuki Mask	
+1012024	Gentleman's Mustache	
+1012025	War Paint	
+1012026	Guan Yu Beard	
+1012027	Bandage Strip	
+1012028	Blush	
+1012029	Jester Mask	
+1012030	Eye Scar	
+1012031	Leaf	
+1012032	White Bread	
+1012033	England Face Painting	
+1012034	France Color Face Painting	
+1012035	Brazil Face Painting	
+1012036	Germany Face Painting	
+1012037	Portugal Face Painting	
+1012038	Japan Face Painting	
+1012039	Korea Face Painting	
+1012040	Heart Face Painting	
+1012041	USA Face Painting	
+1012042	Mexico Face Painting	
+1012043	Australia Face Painting	
+1012044	Mummy Mask	
+1012047	Fu Manchu	
+1012048	Blackjack Scar	
+1012049	Ogre Mask	
+1012050	Maple-Stein	
+1012051	Dark Jester	
+1012052	Tongue Twister Scroll	
+1012053	Unmanaged Anger	
+1012054	Purple Rage	
+1012055	Allergic Reaction	
+1012056	Doggy Mouth	
+1012058	?????	
+1012059	?????	
+1012060	?????	
+1012061	?????	
+1012062	?????	
+1012063	?????	
+1012070	Strawberry Icecream Bar	
+1012071	Chocolate Icecream Bar	
+1012072	Melon Icecream Bar	
+1012073	Watermelon Icecream Bar	
+1012074	Neh neh neh boo boo	
+1012075	Cold Sweat	
+1012080	Fat Lips	
+1012082	Ice Cold Red	
+1012083	Dollish Pink	
+1012085	Cherry Bubblegum	
+1020000	Aqua Toy Shades	
+1021000	Pink Toy Shades	
+1022000	Orange Shades	
+1022001	Blue Shades	
+1022002	Yellow Shades	
+1022003	Green Shades	
+1022004	Black Sunglasses	
+1022005	Red Hard-Rimmed Glasses	
+1022006	Blue Hard-Rimmed Glasses	
+1022007	Green Hard-Rimmed Glasses	
+1022008	Orange Hard-Rimmed Glasses	
+1022009	Dark Shades	
+1022010	Blue & Red Eye Guard	
+1022011	Red Eye Guard	
+1022012	Blue Eye Guard	
+1022013	Black Eye Guard	
+1022014	Brown Aviator Shades	
+1022015	Black Aviator Shades	
+1022016	Blue Aviator Shades	
+1022017	Purple Aviator Shades	
+1022018	Classic Masquerade Mask	
+1022019	Old-School Glasses	
+1022020	Metal Shades	
+1022021	Red Head-Spinning Glasses	
+1022022	Blue Head-Spinning Glasses	
+1022023	Crested Eye Patch	
+1022024	Skull Patch	
+1022025	Red Hearted Eye Patch	
+1022026	Purple Starred Eye Patch	
+1022027	Medical Eye Patch	
+1022028	Spinning Groucho	
+1022029	Spinning Piglet	
+1022030	Hot Teacher Glasses	
+1022031	White Toy Shades	
+1022032	Yellow Toy Shades	
+1022033	Politician Glasses	
+1022034	Bizarre Monocle	
+1022035	Orange Sports Goggle	
+1022036	Green Sports Goggle	
+1022037	Frameless Glasses	
+1022038	Purple Round Shades	
+1022039	Orange Round Shades	
+1022040	Lead Monocle	
+1022041	Cyclist Shades	
+1022042	Scouter	
+1022043	Head Bandage	
+1022044	Nerdy Glasses	
+1022045	Red Bushido Bandana	
+1022046	Butterfly Ball Mask	
+1022047	Owl Ball Mask	
+1022052	Future Vision Shades	
+1022053	Futuristic Shades	
+1022054	Round Shield Shades	
+1022055	Pink Sunglasses	
+1022056	Pink Aviator Sunglasses	
+1022057	Pop-Eye	
+1022059	Black Shades	
+1022063	Flat Mini Glasses	
+1022064	Big Red Glasses	
+1032000	Weighted Earrings	
+1032001	Single Earring	
+1032002	Sapphire Earrings	
+1032003	Amethyst Earrings	
+1032004	Gold Earrings	
+1032005	Red Cross Earrings	
+1032006	Lightning Earrings	
+1032007	Emerald Earrings	
+1032008	Cat's Eye	
+1032009	Yellow Square	
+1032010	Star Earrings	
+1032011	Blue Moon	
+1032012	Skull Earrings	
+1032013	Red-Hearted Earrings	
+1032014	Pink-Flowered Earrings	
+1032015	Metal Silver Earrings	
+1032016	Metal Heart Earrings	
+1032017	Rose Earrings	
+1032018	Pansy Earrings	
+1032019	Crystal Flower Earrings	
+1032020	Gold Drop Earrings	
+1032021	Holy Cross Earrings	
+1032022	Half Earrings	
+1032023	Strawberry Earrings	
+1032024	Transparent Earrings	Use these Earrings if you want to make your Earrings transparent while still using all of the stats your Earrings possess.
+1032025	Leaf Earrings	
+1032026	Gold Emerald Earrings	
+1032027	Black Emerald Earrings	
+1032028	Red Emerald Earrings	
+1032029	Silver Earrings	
+1032030	Sword Earrings	
+1032031	Shield Earrings	
+1032032	Fallen Leaf Earrings	
+1032033	Protector Rock	
+1032034	Coke Earring	
+1032036	Beaded Cross Earring	
+1032038	Snow Earring	
+1032039	Eclipse Earrings	
+1032040	Maple Earring	
+1032041	Maple Earring	
+1032042	Maple Earring	
+1032043	Cecelia's Earrings	
+1032044	Moonstar Earrings	
+1032045	Celestial Earrings	
+1032046	Spider Venom Earrings	
+1032047	Coke Earring	
+1032048	Crystal Leaf Earrings	Once worn proudly by Masterian magicians, these shining earrings are infused with magical qualities.
+1032049	Dark Shards	This unique item combines Power Crystal and Black Crystals for increased resistance to physical and magical forces.
+1032050	Snail's Eye	
+1032051	Diamond Earrings	
+1032052	Slime Earrings	
+1032053	Clover Earrings	
+1032054	Rainbow Earrings	
+1122000	Horntail Necklace	
+1122001	Bow-tie(Green)	
+1122002	Bow-tie (Red)	
+1122003	Bow-tie (Yellow)	
+1122004	Bow-tie (Pink)	
+1122005	Bow-tie (Black)	
+1122006	Bow-tie (Blue)	
+1122007	Spiegelmann Necklace	

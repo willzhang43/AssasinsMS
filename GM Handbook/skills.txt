@@ -1,0 +1,462 @@
+GM	
+ID	Skill Name
+5001000	Haste (Normal)
+5001001	Super Dragon Roar
+5001002	Teleport
+	
+	
+	
+Super GM	
+ID	Skill Name
+5101003	Bless
+5101001	Haste (Super)
+5101000	Heal + Dispel
+5101004	Hide
+5101002	Holy Symbol
+5101005	Resurrection
+	
+	
+	
+Beginner	
+ID	Skill Name
+1003	Legendary Spirit
+1004	Monster Rider
+1002	Nimble Feet
+1001	Recovery
+1000	Three Snails
+	
+	
+	
+Warrior (1st job)	
+ID	Skill Name
+1000002	Endure
+1000000	Improving HP Recovery
+1000001	Improving MaxHP Increase
+1001003	Iron Body
+1001004	Power Strike
+1001005	Slash Blast
+	
+	
+	
+Magician (1st Job)	
+ID	Skill Name
+2001004	Energy Bolt
+2000001	Improving Max MP Increase
+2000000	Improving MP recovery
+2001003	Magic Armor
+2001005	Magic Claw
+2001002	Magic Guard
+	
+	
+	
+Bowman (1st Job)	
+ID	Skill Name
+3001004	Arrow Blow
+3000001	Critical Shot
+3001005	Double Shot
+3001003	Focus
+3000000	The Blessing of Amazon
+3000002	The Eye of Amazon
+	
+	
+	
+Thief (1st Job)	
+ID	Skill Name
+4001003	Dark Sight
+4001002	Disorder
+4001334	Double Stab
+4000001	Keen Eyes
+4001344	Lucky Seven
+4000000	Nimble Body
+	
+	
+	
+Fighter (2nd Job)	
+ID	Skill Name
+1101005	Axe Booster
+1100001	Axe Mastery
+1100003	Final Attack : Axe
+1100002	Final Attack : Sword
+1101007	Power Guard
+1101006	Rage
+1101004	Sword Booster
+1100000	Sword Mastery
+	
+	
+	
+Page (2nd Job)	
+ID	Skill Name
+1201005	BW Booster
+1200001	BW Mastery
+1200003	Final Attack : BW
+1200002	Final Attack : Sword
+1201007	Power Guard
+1201004	Sword Booster
+1200000	Sword Mastery
+1201006	Threaten
+	
+	
+	
+Spearman (2nd Job)	
+ID	Skill Name
+1300003	Final Attack : Pole Arm
+1300002	Final Attack : Spear
+1301007	Hyper Body
+1301006	Iron Will
+1301005	Pole Arm Booster
+1300001	Pole Arm Mastery
+1301004	Spear Booster
+1300000	Spear Mastery
+	
+	
+	
+Fire/Poison Wizard (2nd Job)	
+ID	Skill Name
+2101004	Fire Arrow
+2101001	Meditation
+2100000	MP Eater
+2101005	Poison Brace
+2101003	Slow
+2101002	Teleport
+	
+	
+	
+Ice/Lightning Wizard (2nd Job)	
+ID	Skill Name
+2201004	Cold Beam
+2201001	Meditation
+2200000	MP Eater
+2201003	Slow
+2201002	Teleport
+2201005	Thunderbolt
+	
+	
+	
+Cleric (2nd Job)	
+ID	Skill Name
+2301004	Bless
+2301002	Heal
+2301005	Holy Arrow
+2301003	Invincible
+2300000	MP Eater
+2301001	Teleport
+	
+	
+	
+Hunter (2nd Job)	
+ID	Skill Name
+3101005	Arrow Bomb : Bow
+3101002	Bow Booster
+3100000	Bow Mastery
+3100001	Final Attack : Bow
+3101003	Power Knock-Back
+3101004	Soul Arrow : Bow
+	
+	
+	
+Crossbowman (2nd Job)	
+ID	Skill Name
+3201002	Crossbow Booster
+3200000	Crossbow Mastery
+3200001	Final Attack : Crossbow
+3201005	Iron Arrow : Crossbow
+3201003	Power Knock-Back
+3201004	Soul Arrow : Crossbow
+	
+	
+	
+Assassin (2nd Job)	
+ID	Skill Name
+4101003	Claw Booster
+4100000	Claw Mastery
+4100001	Critical Throw
+4101005	Drain
+4100002	Endure
+4101004	Haste
+	
+	
+	
+Bandit (2nd Job)	
+ID	Skill Name
+4201002	Dagger Booster
+4200000	Dagger Mastery
+4200001	Endure
+4201003	Haste
+4201005	Savage Blow
+4201004	Steal
+	
+	
+	
+Crusader (3rd Job)	
+ID	Skill Name
+1111007	Armor Crash
+1111006	Coma: Axe
+1111005	Coma: Sword
+1111002	Combo Attack
+1110000	Improving MP recovery
+1111004	Panic: Axe
+1111003	Panic: Sword
+1110001	Shield Mastery
+1111008	Shout
+	
+	
+	
+White Knight (3rd Job)	
+ID	Skill Name
+1211006	Blizzard Charge: BW
+1211002	Charged Blow
+1211004	Fire Charge: BW
+1211003	Fire Charge: Sword
+1211005	Ice Charge: Sword
+1210000	Improving MP recovery
+1211008	Lightning Charge: BW
+1211009	Magic Crash
+1210001	Shield Mastery
+1211007	Thunder Charge: Sword
+	
+	
+	
+Dragon Knight (3rd Job)	
+ID	Skill Name
+1311008	Dragon Blood
+1311004	Dragon Fury: Pole Arm
+1311003	Dragon Fury: Spear
+1311006	Dragon Roar
+1310000	Elemental Resistance
+1311002	Pole Arm Crusher
+1311007	Power Crash
+1311005	Sacrifice
+1311001	Spear Crusher
+	
+	
+	
+Fire/Poison Mage (3rd Job)	
+ID	Skill Name
+2110001	Element Amplification
+2111006	Element Composition
+2111002	Explosion
+2110000	Partial Resistance
+2111003	Poison Mist
+2111004	Seal
+2111005	Spell Booster
+	
+	
+	
+Ice/Lightning Mage (3rd Job)	
+ID	Skill Name
+2210001	Element Amplification
+2211006	Element Composition
+2211002	Ice Strike
+2210000	Partial Resistance
+2211004	Seal
+2211005	Spell Booster
+2211003	Thunder Spear
+	
+	
+	
+Priest (3rd Job)	
+ID	Skill Name
+2311001	Dispel
+2311005	Doom
+2310000	Elemental Resistance
+2311003	Holy Symbol
+2311002	Mystic Door
+2311004	Shining Ray
+2311006	Summon Dragon
+	
+	
+	
+Ranger (3rd Job)	
+ID	Skill Name
+3111004	Arrow Rain
+3111003	Inferno
+3110001	Mortal Blow
+3111002	Puppet
+3111005	Silver Hawk
+3111006	Strafe
+3110000	Thrust
+	
+	
+	
+Sniper (3rd Job)	
+ID	Skill Name
+3211004	Arrow Eruption
+3211003	Blizzard
+3211005	Golden Eagle
+3210001	Mortal Blow
+3211002	Puppet
+3211006	Strafe
+3210000	Thrust
+	
+	
+	
+Hermit (3rd Job)	
+ID	Skill Name
+4110000	Alchemist
+4111005	Avenger
+4111006	Flash Jump
+4111001	Meso Up
+4111004	Shadow Meso
+4111002	Shadow Partner
+4111003	Shadow Web
+	
+	
+	
+Chief Bandit (3rd Job)	
+ID	Skill Name
+4211002	Assaulter
+4211004	Band of Thieves
+4211001	Chakra
+4211006	Meso Explosion
+4211005	Meso Guard
+4211003	Pickpocket
+4210000	Shield Mastery
+	
+	
+	
+Hero (4th Job)	
+ID	Skill Name
+1120004	Achilles
+1120003	Advanced Combo
+1121011	Awakening
+1120005	Blocking
+1121008	Brandish
+1121010	Enrage
+1121000	Maple Warrior
+1121001	Monster Magnet
+1121006	Rush
+1121002	Stance
+	
+	
+	
+Paladin (4th Job)	
+ID	Skill Name
+1220005	Achilles
+1220010	Advanced Charge
+1221012	Awakening
+1221009	Blast
+1220006	Blocking
+1221004	Divine Charge: Mace
+1221003	Holy Charge: Sword
+1221000	Maple Warrior
+1221001	Monster Magnet
+1221007	Rush
+1221011	Sanctuary
+1221002	Stance
+	
+	
+	
+Dark Knight (4th Job)	
+ID	Skill Name
+1320005	Achilles
+1321010	Awakening
+1321007	Beholder
+1320009	Beholder's Buff
+1320008	Beholder's Healing
+1320006	Berserk
+1321000	Maple Warrior
+1321001	Monster Magnet
+1321003	Rush
+1321002	Stance
+	
+	
+	
+Fire/Poison Arch Mage (4th Job)	
+ID	Skill Name
+2121008	Awakening
+2121001	Big Bang
+2121005	Elquines
+2121003	Fire Demon
+2121004	Infinity
+2121002	Mana Reflection
+2121000	Maple Warrior
+2121007	Meteo
+2121006	Paralyze
+	
+	
+	
+Ice/Lightning Arch Mage (4th Job)	
+ID	Skill Name
+2221008	Awakening
+2221001	Big Bang
+2221007	Blizzard
+2221006	Chain Lightning
+2221003	Ice Demon
+2221005	Ifrit
+2221004	Infinity
+2221002	Mana Reflection
+2221000	Maple Warrior
+	
+	
+	
+Bishop (4th Job)	
+ID	Skill Name
+2321007	Angel's Ray
+2321009	Awakening
+2321003	Bahamut
+2321001	Big Bang
+2321008	Genesis
+2321005	Holy Shield
+2321004	Infinity
+2321002	Mana Reflection
+2321000	Maple Warrior
+2321006	Resurrection
+	
+	
+	
+Bow Master (4th Job)	
+ID	Skill Name
+3121009	Awakening
+3120005	Bow Expert
+3121008	Concentration
+3121003	Dragon Pulse
+3121007	Hamstring
+3121000	Maple Warrior
+3121006	Phoenix
+3121002	Sharp Eyes
+3121004	Storm Arrow
+	
+	
+	
+Crossbow Master (4th Job)	
+ID	Skill Name
+3221008	Awakening
+3221006	Blind
+3220004	Crossbow Expert
+3221003	Dragon Pulse
+3221005	Freezer
+3221000	Maple Warrior
+3221001	Piercing
+3221002	Sharp Eyes
+3221007	Sniping
+	
+	
+	
+Nights Lord (4th Job)	
+ID	Skill Name
+4121009	Awakening
+4120002	Fake
+4121000	Maple Warrior
+4121004	Ninja Ambush
+4121008	Ninja Storm
+4121003	Showdown
+4121006	Spirit Claw
+4121007	Triple Throw
+4120005	Venom
+	
+	
+	
+Shadower (4th Job)	
+ID	Skill Name
+4221001	Assassinate
+4221008	Awakening
+4221007	Boomerang Step
+4220002	Fake
+4221000	Maple Warrior
+4221004	Ninja Ambush
+4221003	Showdown
+4221006	Smoke Shell
+4220005	Venom
+
+
+This file is by Sathon of odinms.de

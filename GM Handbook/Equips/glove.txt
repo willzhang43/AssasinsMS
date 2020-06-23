@@ -1,0 +1,195 @@
+Gloves		
+ID	Name	Description
+1080000	White Ninja Gloves	
+1080001	Red Ninja Gloves	
+1080002	Black Ninja Gloves	
+1081000	Red Ninja Gloves	
+1081001	Blue Ninja Gloves	
+1081002	Wedding Gloves	
+1081003	White Cat Gloves	
+1081004	Black Cat Gloves	
+1082000	Steel Fingerless Gloves	
+1082001	White Fingerless Gloves	
+1082002	Work Gloves	
+1082003	Juno	
+1082004	Venon	
+1082005	Steel Missel	
+1082006	Orihalcon Missel	
+1082007	Bronze Missel	
+1082008	Steel Briggon	
+1082009	Steel Brist	
+1082010	Mithril Brist	
+1082011	Gold Brist	
+1082012	Basic Archer Gloves	
+1082013	Blue Diros	
+1082014	Red Diros	
+1082015	Green Diros	
+1082016	Blue Savata	
+1082017	Red Savata	
+1082018	Dark Savata	
+1082019	Lemona	
+1082020	Blue Morrican	
+1082021	Green Morrican	
+1082022	Purple Morrican	
+1082023	Iron Knuckle	
+1082024	Adamantium Knuckle	
+1082025	Dark Knuckle	
+1082026	Ocean Mesana	
+1082027	Blood Mesana	
+1082028	Dark Mesana	
+1082029	Brown Duo	
+1082030	Blue Duo	
+1082031	Black Duo	
+1082032	Bronze Mischief	
+1082033	Mithril Mischief	
+1082034	Dark Mischief	
+1082035	Yellow Briggon	
+1082036	Dark Briggon	
+1082037	Bronze Wolfskin	
+1082038	Mithril Wolfskin	
+1082039	Dark Wolfskin	
+1082040	Red Boxing Gloves	
+1082041	Blue Boxing Gloves	
+1082042	Steel Sylvia	
+1082043	Silver Sylvia	
+1082044	Gold Sylvia	
+1082045	Gold Arbion	
+1082046	Steel Arbion	
+1082047	Orihalcon Arbion	
+1082048	Brown Marker	
+1082049	Green Marker	
+1082050	Black Marker	
+1082051	Red Lutia	
+1082052	Blue Lutia	
+1082053	Black Lutia	
+1082054	Red Noel	
+1082055	Blue Noel	
+1082056	Dark Noel	
+1082057	Brown Baseball Glove	
+1082058	Blue Baseball Glove	
+1082059	Bronze Clench	
+1082060	Sapphire Clench	
+1082061	Dark Clench	
+1082062	Red Arten	
+1082063	Blue Arten	
+1082064	Dark Arten	
+1082065	Blue Moon Gloves	
+1082066	Brown Moon Gloves	
+1082067	Red Moon Gloves	
+1082068	Bronze Scaler	
+1082069	Mithril Scaler	
+1082070	Gold Scaler	
+1082071	Aqua Brace	
+1082072	Gold Brace	
+1082073	Dark Brace	
+1082074	Dark Cleave	
+1082075	Red Cleave	
+1082076	Gold Cleave	
+1082077	White Bandage	
+1082078	Brown Bandage	
+1082079	Black Bandage	
+1082080	Dark Penance	
+1082081	Red Pennance	
+1082082	Blue Pennance	
+1082083	Dark Willow	
+1082084	Blue Willow	
+1082085	Red Willow	
+1082086	Steel Manute	
+1082087	Gold Manute	
+1082088	Dark Manute	
+1082089	Oaker Garner	
+1082090	Sephia Garner	
+1082091	Dark Garner	
+1082092	Bronze Pow	
+1082093	Steal Pow	
+1082094	Gold Pow	
+1082095	Bronze Rover	
+1082096	Silver Rover	
+1082097	Gold Rover	
+1082098	Brown Lorin	
+1082099	Blue Lorin	
+1082100	Dark Lorin	
+1082101	Santa Gloves	
+1082102	Transparent Gloves	Use these Gloves if you want to make your Gloves transparent while still using all of the stats your Gloves possess.
+1082103	Bronze Husk	
+1082104	Mithril Husk	
+1082105	Dark Husk	
+1082106	Blue Eyes	
+1082107	Gold Eyes	
+1082108	Dark Eyes	
+1082109	Red Cordon	
+1082110	Blue Cordon	
+1082111	Green Cordon	
+1082112	Dark Cordon	
+1082113	Hair-Cutter Gloves	
+1082114	Sapphire Emperor	
+1082115	Emerald Emperor	
+1082116	Blood Emperor	
+1082117	Dark Emperor	
+1082118	Green Larceny	
+1082119	Purple Larceny	
+1082120	Blood Larceny	
+1082121	Green Clarity	
+1082122	Blue Clarity	
+1082123	Dark Clarity	
+1082124	Mesoranger Gloves	
+1082125	Red Focus	
+1082126	Green Focus	
+1082127	Dark Focus	
+1082128	Green Imperial	
+1082129	Purple Imperial	
+1082130	Dark Imperial	
+1082131	Blue Sage	
+1082132	Green Sage	
+1082133	Red Sage	
+1082134	Dark Pachone	
+1082135	Blue Anelin	
+1082136	Green Anelin	
+1082137	Red Anelin	
+1082138	Dark Anelin	
+1082139	Green Korben	
+1082140	Blue Korben	
+1082141	Dark Korben	
+1082142	Green Mystra	
+1082143	Purple Mystra	
+1082144	Dark Mystra	
+1082145	Yellow Work Gloves	
+1082146	Red Work Gloves	
+1082147	Blue Work Gloves	
+1082148	Purple Work Gloves	
+1082149	Brown Work Gloves	
+1082150	Grey Work Gloves	
+1082151	Green Ciara	
+1082152	Blue Ciara	
+1082153	Red Ciara	
+1082154	Purple Ciara	
+1082155	Snowman Gloves	
+1082156	Teddy Bear Gloves	
+1082157	Skull Gloves	
+1082158	Red Arcina	
+1082159	Blue Arcina	
+1082160	Green Arcina	
+1082161	Star Gloves	
+1082162	Love Gloves	
+1082163	Red Hunter Gloves	
+1082164	Blue Elemental Gloves	
+1082167	Black Garina Gloves	
+1082168	Blue Dragon Gauntlet	
+1082169	Moon Bunny Gloves	
+1082170	Rose Crystal Watch	
+1082171	Blue Watch	
+1082172	Snowflake Gloves	
+1082173	Lightning Gloves	
+1082174	Lunar Gloves	
+1082217	Wolf Gauntlets	
+1082218	Dragon Gauntlet	
+1082221	Golden Gloves	
+1082222	Mechanical Glove	
+1082223	Stormcaster Gloves	A relic formerly worn by the Stormcaster knights, these gloves are renowned for their offensive capabilities.
+1082224	Tania Gloves	
+1082225	Mercury Gloves	
+1082227	Transparent Skull Glove	
+1082228	Green Mittens	
+1082229	Heart Ribbon Glove	
+1082230	Glitter Gloves	
+1082231	Luxury Wristwatch	

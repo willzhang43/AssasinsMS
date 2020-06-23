@@ -1,0 +1,7 @@
+Default NPC is Spindel the custom NPC I made at henesys.
+(Use the XML Wz I included in this repack to have Spindel in Henesys.)
+
+Removed Skillbooks:
+Guardian
+Shadow Shifter
+Marksman Snipe

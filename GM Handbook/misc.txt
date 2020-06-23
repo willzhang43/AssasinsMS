@@ -1,0 +1,232 @@
+Jobs	
+ID	Job Name
+500	GM
+510	Super GM
+000	Beginner
+100	Warrior (1)
+110	Fighter (2)
+120	Page (2)
+130	Spearman (2)
+111	Crusader (3)
+121	White Knight (3)
+131	Dragon Knight (3)
+112	Hero (4)
+122	Paladin (4)
+132	Dark Knight (4)
+200	Magician (1)
+210	Fire/Poison Wizard (2)
+220	Ice/Lightning Wizard (2)
+230	Cleric (2)
+211	Fire/Poison Mage (3)
+221	Ice/Lightning Mage (3)
+231	Priest (3)
+212	Fire/Poison Arch Mage (4)
+222	Ice/Lightning Arch Mage (4)
+231	Bishop (4)
+300	Bowman (1)
+310	Hunter (2)
+320	Crossbowman (2)
+311	Ranger (3)
+321	Sniper (3)
+312	Bow Master (4)
+322	Crossbow Master (4)
+400	Thief (1)
+410	Assassin (2)
+420	Bandit (2)
+411	Hermit (3)
+421	Chief Bandit (3)
+412	Nights Lord (4)
+422	Shadower (4)
+	
+	
+	
+Pets	
+ID	Name
+5000000	Brown Kitty
+5000001	Brown Puppy
+5000002	Pink Bunny
+5000003	Mini Kargo
+5000004	Black Kitty
+5000005	White Bunny
+5000006	Husky
+5000007	Black Pig
+5000008	Panda
+5000009	Dino Boy
+5000010	Dino Girl
+5000011	Monkey
+5000012	White Tiger
+5000013	Elephant
+5000014	Rudolph
+5000015	Dasher
+5000017	Robot
+5000018	Husky
+5000020	Mini Yeti
+5000021	Monkey
+5000022	Turkey
+5000023	Penguin
+5000024	Jr. Balrog
+5000025	Golden Pig
+5000028	Dragon
+5000030	Green Dragon
+5000031	Red Dragon
+5000032	Blue Dragon
+5000033	Black Dragon
+5000034	Black Bunny
+5000036	Jr. Reaper
+5000037	Husky
+5000039	Porcupine
+5000041	Snowman
+	
+	
+	
+Throwing Stars	
+ID	Name
+2070000	Subi
+2070001	Wolbi
+2070008	Snowball
+2070002	Mokbi
+2070009	Wooden Top
+2070012	Paper Fighter Plane
+2070013	Orange
+2070003	Kumbi
+2070010	Icicle
+2070011	Maple Throwing-Stars
+2070004	Tobi
+2070005	Steely 
+2070006	Ilbi
+2070007	Hwabi
+2070016	Crystal Ilbi
+	
+	
+	
+Super Scrolls (10% Scrolls that work 100% of the time)	
+ID	Type
+2040603	Bottomwear for DEF
+2044503	Bow for ATT
+2041024	Cape for Magic Def.
+2041025	Cape for Weapon Def.
+2044703	Claw for ATT
+2044603	Crossbow for ATT
+2043303	Dagger for ATT
+2040807	Gloves for ATT
+2040806	Gloves for DEX
+2040006	Helmet for DEF
+2040007	Helmet for HP
+2043103	One-Handed Axe for ATT
+2043203	One-Handed BW for ATT
+2043003	One-Handed Sword for ATT
+2040506	Overall Armor for DEX
+2044403	Pole Arm for ATT
+2040903	Shield for DEF
+2040709	Shoes for DEX
+2040710	Shoes for Jump
+2040711	Shoes for Speed
+2044303	Spear for ATT
+2043803	Staff for Magic Att.
+2040403	Topwear for DEF
+2044103	Two-handed Axe for ATT
+2044203	Two-handed BW for ATT
+2044003	Two-handed Sword for ATT
+2043703	Wand for Magic Att.
+
+
+Morph Items		
+ID	Name	Monster
+5300000	Fungus Scroll	Orange Mushroom
+5300001	Oinker Delight	Pig
+5300002	Zeta Nightmare	Alien
+		
+		
+		
+Summoning Bags		
+ID	Name	Summons
+2101050	GM event Sack1	“Slime Storm”
+2101051	GM event Sack2	“Mushroom Boom”
+2101052	GM event Sack3	“Pigs in a Blanket”
+2101053	GM event Sack4	“Eye See You”
+2101054	GM event Sack5	“Alien Armada”
+2101055	GM event Sack6	“Toying Around”
+2101056	GM event Sack7	“Crimson Crash”
+2100017	Alien Sack	Various Omega Sector Aliens
+2100000	Black Sack	Jr. Balrog
+2100014	Brand New Monster Galore	Gargoyle
+2100016	Different Sack	Various Ludibrium Monsters
+2100001	Monster Sack 1	Various Monsters Lvl 1 – 10
+2100002	Monster Sack 2	Various Monsters Lvl 10 – 20
+2100003	Monster Sack 3	Various Monsters Lvl 20 – 30
+2100004	Monster Sack 4	Various Monsters Lvl 30 – 40
+2100005	Monster Sack 5	Various Monsters Lvl 40 – 50
+2100006	Monster Sack 6	Various Monsters Lvl 50 – 60
+2100007	Monster Sack 7	Various Monsters Lvl 60 – 70
+2101013	Summon Showa Boss	Male Boss (Guy with gun)
+2100015	Summoning "Dances with Balrog's Clone"	Dances with Balrog's Clone
+2101001	Summoning Athena Pierce's Clone	Athena Pierce's Clone
+2101008	Summoning Bag of Birds	Chirppy and Tweeters
+2101007	Summoning Crimson Balrog	Crimson Balrog
+2101000	Summoning Dark Lord's Clone	Dark Lord's Clone
+2100009	Summoning Dark Yeti & Pepe	Dark Yeti & Pepe
+2101004	Summoning Grendel the Really Old's Clone	Grendel the Really Old's Clone
+2101005	Summoning Horned Tail A	Head A of Horned Tail
+2101006	Summoning Horned Tail C	Head C of Horned Tail
+2100008	Summoning Lycanthrope	Lycanthrope
+2101002	Summoning Mushmom	Mushmom
+2101003	Summoning New-Type Balrog	Two Crimson Balrogs
+2100018	Summoning Superslime	King Slime
+2100019	Summoning Tauromacis	Tauromacis
+2100010	Summoning Taurospear	Taurospear
+2100011	Summoning the Boss	Random Boss
+2100012	Summoning Werewolf	Werewolf
+2100013	Summoning Yeti & Pepe	Yeti & Pepe
+2100031	Toy Robot Sack	Toy Robots
+2100032	Toy Trojan Sack	Toy Trojans
+		
+		
+		
+Megaphones		
+ID	Name	Additional Info
+5070000	Cheap Megaphone	Everyone on map
+5071000	Megaphone	Everyone in channel
+5072000	Super Megaphone	Everyone in world
+5073000	Heart Megaphone	
+5074000	Skull Megaphone	
+5390000	Diablo Messenger	Avatar, burning background.
+5390001	Cloud 9 Messenger	Avatar, bright background.
+5390002	Loveholic Messenger	Avatar, heart background
+		
+		
+		
+Mounts		
+ID	Name	Additional Info
+1902000	Hog	Level 70
+1902001	Silver Mane	Level 120
+1902002	Red Draco	Level 200
+1912000	Saddle	
+				
+		
+		
+		
+Other Useful Items		
+ID	Name	Additional Info
+5070000	Cheap Megaphone	Everyone on map
+5071000	Megaphone	Everyone in channel
+5072000	Super Megaphone	Everyone in world
+5050000	AP Reset	
+5050001	SP Reset (1st job)	
+5050002	SP Reset (2nd job)	
+5050003	SP Reset (3rd job)	
+5050004	SP Reset (4th job)	
+5090000	Note	Sends note to offline character
+5100000	Congratulatory Song	Plays song on current map
+5180000	Water of Life	Revives pets
+5211001	From NEXON	Warning message for hackers
+5220000	Gachapon Ticket	
+5220001	Event Ticket	Needed to enter event map
+5330000	Quick Delivery Ticket	Send package with message
+5401000	Character Transfer	Transfers character to other world
+5400000	Character Name Change	Changes character's name
+2022245	Heartstopper	+60 Attack and Speed (1 minute)
+2022068	Yellow Cider	+35 Magic Attack (5 minutes)
+2022108	Horned Tail Squad : Victory	+30 Atk, +40 Matk, +200 Def (1 hour)
+2022118	Admin's Congrats	20 minute long buff to say thanks to player.
+2022273	Ssiws Cheese	+220 Magic Attack (2 minutes)
+2022179	Onyx Apple	Recovers HP/MP and gives 10 min super buff

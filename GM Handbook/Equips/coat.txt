@@ -1,0 +1,403 @@
+Shirts		
+ID	Name	Description
+1040000	Yellow Jangoon Armor	
+1040001	Black Blazer	
+1040002	White Undershirt	
+1040003	Brown Hard Leather Top	
+1040004	Blue Training Shirt	
+1040005	Orange Baseball Jacket	
+1040006	Undershirt	
+1040007	Green Leather Hoodwear	
+1040008	Brown Archer Top	
+1040009	Steel Corporal	
+1040010	Grey T-Shirt	
+1040011	Silver Leather Hoodwear	
+1040012	Blue Sergeant	
+1040013	Blue One-lined T-Shirt	
+1040014	Orange Sporty T-Shirt	
+1040015	Brown Lolico Armor	
+1040016	Orihalcon Master Sergeant	
+1040017	Grey / Brown Training Shirt	
+1040018	Black Split Piece	
+1040019	Orange Split Piece	
+1040020	Blue Split Piece	
+1040021	Red Hwarang Shirt	
+1040022	Green Bennis Chainmail	
+1040023	Black Bennis Chainmail	
+1040024	Blue Bennis Chainmail	
+1040025	Red Bennis Chainmail	
+1040026	Green Hwarang Shirt	
+1040027	Old School Blazer	
+1040028	Blue Sky	
+1040029	Blue Dragon	
+1040030	Gold Dragon	
+1040031	Blue Cloth Vest	
+1040032	Red Cloth Vest	
+1040033	Black Cloth Vest	
+1040034	Dark Nightshift	
+1040035	Blue Nightshift	
+1040036	Blue-Striped Undershirt	
+1040037	Brown Corporal	
+1040038	Blue Lolico Armor	
+1040039	Red Sergeant	
+1040040	Silver Master Sergeant	
+1040041	Dark Master Sergeant	
+1040042	Blue Pao	
+1040043	Red Pao	
+1040044	Black Pao	
+1040045	Red Rider	
+1040046	Shine Rider	
+1040047	Dark Rider	
+1040048	Brown Sneak	
+1040049	Blue Sneak	
+1040050	Black Sneak	
+1040051	Blue Striped Trainer	
+1040052	Green Striped Trainer	
+1040053	Orange Striped Trainer	
+1040054	Green Disco Shirt	
+1040055	Orange Disco Shirt	
+1040056	Original Disco Shirt	
+1040057	Dark Brown Stealer	
+1040058	Dark Silver Stealer	
+1040059	Red Gold Stealer	
+1040060	Silver Black Stealer	
+1040061	Green Knucklevest	
+1040062	Red Knucklevest	
+1040063	Black Knucklevest	
+1040064	Wild Top	
+1040065	Brown Wild Top	
+1040066	Red Wild Top	
+1040067	Green Hunter's Armor	
+1040068	Dark Hunter's Armor	
+1040069	Red Hunter's Armor	
+1040070	Blue Hunter's Armor	
+1040071	Green Archer Top	
+1040072	Red Legolier	
+1040073	Blue Legolier	
+1040074	Green Legolier	
+1040075	Dark Legolier	
+1040076	Brown Legolier	
+1040077	Cowboy Top	
+1040078	Pre-School Uniform Top	
+1040079	Brown Piette	
+1040080	Dark Piette	
+1040081	White Piette	
+1040082	Khaki Shadow	
+1040083	Marine Shadow	
+1040084	Dark Shadow	
+1040085	Maroon Jangoon Armor	
+1040086	Blue Jangoon Armor	
+1040087	Blue Shouldermail	
+1040088	Oaker Shouldermail	
+1040089	Umber Shouldermail	
+1040090	Green Orientican	
+1040091	Red Orientican	
+1040092	Blue Orientican	
+1040093	Dark Orientican	
+1040094	Red China	
+1040095	Blue China	
+1040096	Brown China	
+1040097	Green China	
+1040098	Light Scorpio	
+1040099	Oaker Scorpio	
+1040100	Dark Scorpio	
+1040101	Skull T-Shirt	
+1040102	Bronze Platine	
+1040103	Mithril Platine	
+1040104	Orihalcon Platine	
+1040105	Brown Studded Top	
+1040106	Blue Studded Top	
+1040107	Dark Studded Top	
+1040108	Green Pirate Top	
+1040109	Red Pirate Top	
+1040110	Dark Pirate Top	
+1040111	Green Commodore	
+1040112	Blue Commodore	
+1040113	Dark Commodore	
+1040114	Hawaiian Shirt	
+1040115	Green Osfa Suit	
+1040116	Brown Osfa Suit	
+1040117	Purple Osfa Suit	
+1040118	Red Osfa Suit	
+1040119	Ragged Top	
+1040120	Green Neos	
+1040121	Blue Neos	
+1040122	Black Neos	
+1040123	Prep School Uniform	
+1040124	Crusader T-Shirt	
+1040125	Military Cargo Jacket	
+1040126	Yellow Frill Sleeveless	
+1040127	Blue Heart Tanktop	
+1040128	Blue Line Tanktop	
+1040129	Red Casual Suit	
+1040130	Green Tie Casual Suit	
+1040131	Pink Tie Casual Suit	
+1040132	Palm Tree Tanktop	
+1040133	Long Blue Shirt	
+1040134	Orange Puffy Jacket	
+1040135	Muscle Man T	
+1040137	Tania Tailored Jacket	
+1040138	Mercury Leather Jacket (M)	
+1041000	Blue Frill Blouse	
+1041001	Blue Sailor Shirt	
+1041002	White Tubetop	
+1041003	Red Qi Pao	
+1041004	Pink Starry Shirt	
+1041005	Pink Mimi Blouse	
+1041006	Yellow T-Shirt	
+1041007	Green Avelin	
+1041008	Green Able Armor	
+1041009	Red Sailor Shirt	
+1041010	Green T-Shirt	
+1041011	Red-Striped Top	
+1041012	Red-Striped T-Shirt	
+1041013	Green Shivermail	
+1041014	Orange Lolica Armor	
+1041015	Black Armine	
+1041016	Green Armine	
+1041017	Purple Arianne	
+1041018	Green Arianne	
+1041019	Red Lamelle	
+1041020	Green Lamelle	
+1041021	Brown Lamelle	
+1041022	Blue Shark	
+1041023	Sky Shark	
+1041024	Red Shark	
+1041025	Pink Arianne	
+1041026	Yellow Arianne	
+1041027	Red Shivermail	
+1041028	Purple Shivermail	
+1041029	Black Split	
+1041030	Red Split	
+1041031	Purple Split	
+1041032	Green Bennis Chainmail	
+1041033	Red Bennis Chainmail	
+1041034	Blue Bennis Chainmail	
+1041035	Yellow Bennis Chainmail	
+1041036	Red Cloth Vest	
+1041037	Blue Cloth Vest	
+1041038	Black Cloth Vest	
+1041039	Pink Qi Pao	
+1041040	Blue Qi Pao	
+1041041	Purple Fairy Top	
+1041042	Green Fairy Top	
+1041043	Blue Fairy Top	
+1041044	Red Nightshift	
+1041045	Brown Nightshift	
+1041046	Pink Tanktop	
+1041047	Red Steal	
+1041048	Black Steal	
+1041049	Blue Steal	
+1041050	Purple Steal	
+1041051	Red Amoria Top	
+1041052	Blue Amoria Top	
+1041053	Black Amoria Top	
+1041054	Green Huntress Armor	
+1041055	Black Huntress Armor	
+1041056	Red Huntress Armor	
+1041057	Dark Sneak	
+1041058	Blood Sneak	
+1041059	Sky Sneak	
+1041060	Gold Sneak	
+1041061	Yellow Avelin	
+1041062	Yellow Able Armor	
+1041063	Grey Able Armor	
+1041064	Blueberry Lolica Armor	
+1041065	Red Legolia	
+1041066	Blue Legolia	
+1041067	Green Legolia	
+1041068	Dark Legolia	
+1041069	Brown Legolia	
+1041070	Sky Blue Mimi Blouse	
+1041071	Yellow Mimi Blouse	
+1041072	Cowboy Top	
+1041073	Pre-School Uniform Top	
+1041074	Purple Shadow	
+1041075	Red Shadow	
+1041076	Dark Shadow	
+1041077	Maroon Moon	
+1041078	Blue Moon	
+1041079	Brown Moon	
+1041080	Red Moon	
+1041081	White Piettra	
+1041082	Brown Piettra	
+1041083	Dark Piettra	
+1041084	Red Jangoon Armor	
+1041085	Brown Jangoon Armor	
+1041086	Black Jangoon Armor	
+1041087	Red Shouldermail	
+1041088	Ivory Shouldermail	
+1041089	Dark Shouldermail	
+1041090	Pink Top	
+1041091	Green Ice Queen	
+1041092	Red Ice Queen	
+1041093	Blue Ice Queen	
+1041094	Light Mantis	
+1041095	Bloody Mantis	
+1041096	Umber Mantis	
+1041097	Aqua Platina	
+1041098	Violet Platina	
+1041099	Bloody Platina	
+1041100	Purple Mystique	
+1041101	Blue Mystique	
+1041102	Pink Mystique	
+1041103	Red Mystique	
+1041104	Old School Uniform Top	
+1041105	Green Pirate Blouse	
+1041106	Red Pirate Blouse	
+1041107	Dark Pirate Blouse	
+1041108	SF Ninja Top	
+1041109	Red Trainer Jacket	
+1041110	Sky Blue Trainer Jacket	
+1041111	Pink Trainer Jacket	
+1041112	Black Trainer Jacket	
+1041113	Pink Frill Pajama Top	
+1041114	Hawaiian Shirt	
+1041115	Green Osfa Suit	
+1041116	Brown Osfa Suit	
+1041117	Purple Osfa Suit	
+1041118	Red Osfa Suit	
+1041119	Green Valkyrie	
+1041120	Purple Valkyrie	
+1041121	Dark Valkyrie	
+1041122	Green Lucida	
+1041123	Purple Lucida	
+1041124	Dark Lucida	
+1041125	Rainbow Knit	
+1041126	Transparent Top (F)	Use this Top equip if you want to make your Top equip transparent while still using all of the stats your Top equip possesses.
+1041127	Heart Sleeveless	
+1041128	Cross Sleeveless	
+1041129	Yellow Frill Camisole	
+1041130	Blue Frill Camisole	
+1041131	Pink Ribboned Janie	
+1041132	Pink Frill Camisole	
+1041133	Grey Cardigan	
+1041134	Angora Mustang	
+1041135	Tube-Top Jacket	
+1041136	Pink Vest Blouse	
+1041137	Pink-Dotted Top	
+1041138	Tania Bolero	
+1041139	Mercury Leather Jacket (F)	
+1042000	Orange Hooded Vest	
+1042001	Black Hooded Vest	
+1042002	Red Hooded Vest	
+1042003	Wizet Plain Suit	
+1042004	Pink Hooded Vest	
+1042005	Pink Camping Shirt	
+1042006	Green Camping Shirt	
+1042007	Blue Camping Shirt	
+1042008	Wildcats Baseball Shirt (Basic)	
+1042009	Wildcats Baseball Shirt (Home)	
+1042010	Wildcats Baseball Shirt (Away)	
+1042011	Wildcats Baseball Shirt (Alternate)	
+1042012	Yellow Snowboard Top	
+1042013	Green Snowboard Top	
+1042014	Yellow Layered Combo	
+1042015	Blue Layered Combo	
+1042016	Pink Snowboard Top	
+1042017	Sky Blue Snowboard Top	
+1042018	Red T-Shirt w/ Heart	
+1042019	M Layered T-Shirt	
+1042020	Old Military Uniform	
+1042021	Starry Layered Combo	
+1042022	Camouflaged Uniform	
+1042023	Blue Polka-Dot Pajama Top	
+1042024	Red Polka-Dot Pajama Top	
+1042025	Prisoner Top	
+1042026	Flowery Dress Shirt	
+1042027	Blue B-Ball Jersey	
+1042028	Orange B-Ball Jersey	
+1042029	Octopus T-Shirt	
+1042030	Slime T-Shirt	
+1042031	O. Mushroom T-Shirt	
+1042032	Beetle Longsleeve	
+1042033	Beige Double-Coat	
+1042034	Green Double-Coat	
+1042035	Red Double-Coat	
+1042036	Christmas Padded Jacket	
+1042037	Snowman Padded Jacket	
+1042038	Red Sweater	
+1042039	Sky Blue Allstar	
+1042040	Pink Allstar	
+1042041	Black Allstar	
+1042042	White Hooded Vest	
+1042043	Green Striped Rugby Tee	
+1042044	Pink Striped Rugby Tee	
+1042045	Bowling Shirt	
+1042046	White Casual Suit	
+1042047	Star-Patterned Yellow Shirt	
+1042048	Star-Patterned Purple Shirt	
+1042049	Short Denim Jacket	
+1042050	Baseball Jumper	
+1042051	Bomber Jacket	
+1042052	Blue Down Parka	
+1042053	Blue Wool Jacket	
+1042054	Pink Wool Jacket	
+1042055	Pink Down Parka	
+1042056	Beat Shirt	
+1042058	Red Half	
+1042059	Sholl Trainer	
+1042060	Pola Sweater	
+1042061	Ball Zone Jumper	
+1042062	Stitched Leather Jacket	
+1042063	Red Turtleneck Sweater	
+1042064	Football Top(Home)	
+1042065	Football Top(Away)	
+1042066	Orange Hooded Shirt	
+1042067	Orange Hooded Zip-Up	
+1042068	Drill Muffler	
+1042069	Pink Big-Belt Shirt	
+1042070	Sky Blue Big-Belt Shirt	
+1042071	Pastel Layered Hooded Shirt	
+1042072	Red Layered Hooded Shirt	
+1042073	Navy Blue Dress Shirt	
+1042074	White Longsleeve with Star	
+1042075	Pink Pluto T	
+1042076	Dotted Disco Shirt	
+1042077	Rainbow T	
+1042078	White & Blue Sailor Top	
+1042080	Red Hot Racer T	
+1042081	Cherry Layered T	
+1042082	Black Cardigan Set	
+1042083	Rainbow Hooded Pancho	
+1042084	Army General Hoodie	
+1042085	Canary Heart T	
+1042086	Tourist T	
+1042087	Skull Shirt	
+1042088	Black Skull Hooded Vest	
+1042089	Blue Skull Hooded Vest	
+1042090	Red Skull Hooded Vest	
+1042091	Pink Skull Hooded Vest	
+1042092	Pelvis Hoodie	
+1042093	Pointed Double Coat	
+1042094	Orange Snowflake Sweater	
+1042095	Vintage Hooded Shirt	
+1042096	M Shirt	
+1042097	Print layered Hoody	
+1042098	Camo Hooded Jacket	
+1042099	Striped Hooded Shirt	
+1042100	Checkered Casual Suit	
+1042101	Blanc Rose Top	
+1042102	Aqua Road T	
+1042103	White Outlaw Shirt	
+1042104	Basic green t-shirt	
+1042105	Crown Hooded T	
+1042106	Rainbow-striped Hoodie	
+1042107	Pink Flower T-shirt	When equipped, the flower petals will float around while moving.
+1042108	Spangle sleeveless	
+1042109	Yellow & Red-Striped Jacket	
+1042110	Red Hooded Coat	
+1042116	Orange Pea Coat	
+1042117	Green Baseball Jacket	
+1042118	Red Checkered Shirt	
+1042119	Vintage Muffler Jacket	
+1042120	Celeste Blue Double Coat	
+1042121	Opera Pink Double Coat	
+1042122	Bowtie Jacket	
+1042125	Yellow Longsleeve w/ Bunny Bag	
+1042126	Red and Black Blazer	
+1042127	Green Suspenders	
+1042128	Apple-Green Sweater	
+1042129	Black Tie Affair Dress Shirt	
+1040143	Pink Top [m]	
+1041146	Old School Blazer [F]	

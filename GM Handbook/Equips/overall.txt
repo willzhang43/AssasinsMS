@@ -1,0 +1,397 @@
+Overalls		
+ID	Name	Description
+1050000	White Crusader Chainmail	
+1050001	Brown Doros Robe	
+1050002	Blood Chaos Robe	
+1050003	Blue Wizard Robe	
+1050004	Blue Officer Uniform	
+1050005	Blue Kendo Robe	
+1050006	Red Kendo Robe	
+1050007	White Kendo Robe	
+1050008	Beige Plain Robe	
+1050009	Blue Plain Robe	
+1050010	Green Plain Robe	
+1050011	Black Dragon Robe	
+1050012	Grey Skull Overall	
+1050013	Red Skull Overall	
+1050014	Green Skull Overall	
+1050015	Blue Skull Overall	
+1050016	Orange Skull Overall	
+1050017	Yellow Tights	
+1050018	Blue Sauna Robe	If worn inside the hotel sauna, the recovery rate for HP and MP will increase 1.5x.
+1050019	Santa Costume	
+1050020	Paper Box	
+1050021	Blue Crusader Chainmail	
+1050022	Dark Crusader Chainmail	
+1050023	Blue Doros Robe	
+1050024	Yellow Doros Robe	
+1050025	White Doros Robe	
+1050026	White Wizard Robe	
+1050027	Black Wizard Robe	
+1050028	Green Wizard Robe	
+1050029	Dark Chaos Robe	
+1050030	Blue Chaos Robe	
+1050031	White Chaos Robe	
+1050032	Silver Officer Uniform	
+1050033	Black Officer Uniform	
+1050034	Red Officer Uniform	
+1050035	Brown Starlight	
+1050036	Red Starlight	
+1050037	Green Starlight	
+1050038	Blue Starlight	
+1050039	Dark Starlight	
+1050040	Red Swimming Trunk	
+1050041	Blue Swimming Trunk	
+1050042	Fine Brown Hanbok	
+1050043	Fine Black Hanbok	
+1050044	Fine Blue Hanbok	
+1050045	Blue Calas	
+1050046	Red Calas	
+1050047	Orange Calas	
+1050048	White Calas	
+1050049	Dark Calas	
+1050050	Dark Suit	
+1050051	Red-Lined Kismet	
+1050052	Blue-Lined Kismet	
+1050053	Blue Anakamoon	
+1050054	Red Anakamoon	
+1050055	White Anakamoon	
+1050056	Dark Anakamoon	
+1050057	Ghost Uniform	
+1050058	Orange Tai	
+1050059	Blue Tai	
+1050060	Red Tai	
+1050061	Blue Linnex	
+1050062	Beige Linnex	
+1050063	Green Linnex	
+1050064	Dark Linnex	
+1050065	Blue Celebration Hanbok	
+1050066	Green Celebration Hanbok	
+1050067	Blue Requiem	
+1050068	Red Requiem	
+1050069	Brown Requiem	
+1050070	Dark Requiem	
+1050071	Men's Ninja Overall	
+1050072	Green Enigmatic	
+1050073	Blue Enigmatic	
+1050074	Dark Enigmatic	
+1050075	Red Pris	
+1050076	Blue Pris	
+1050077	Green Pris	
+1050078	Dark Pris	
+1050079	Black Coat of Death	
+1050080	Green Battle Road	
+1050081	Red Battle Road	
+1050082	Blue Battle Road	
+1050083	Dark Battle Road	
+1050084	Red Mesoranger	
+1050085	Blue Mesoranger	
+1050086	Mesoranger Green	
+1050087	Black Mesoranger	
+1050088	Red Ades	
+1050089	Blue Ades	
+1050090	Green Ades	
+1050091	Dark Ades	
+1050092	Green Oriental Fury Coat	
+1050093	Blue Oriental Fury Coat	
+1050094	Red Oriental Fury Coat	
+1050095	Black Oriental Fury Coat	
+1050096	Green Katinas	
+1050097	Blue Katinas	
+1050098	Red Katinas	
+1050099	Dark Katinas	
+1050100	Bathrobe for Men	
+1050101	Western Cowboy	
+1050102	Green Varuna	
+1050103	Blue Varuna	
+1050104	Red Varuna	
+1050105	Dark Varuna	
+1050106	Green Arzuna	
+1050107	Blue Arzuna	
+1050108	Red Arzuna	
+1050109	Green Picnicwear	
+1050110	Sky Blue Picnicwear	
+1050111	Boxer Trunks	
+1050112	Wedding Dress	
+1050113	Wedding Tuxedo	
+1050114	Poseidon Armor	
+1050115	Sea Hermit Robe	
+1050116	Race Ace Suit	
+1050117	Tiny Blue Swimshorts	
+1050118	Tiny Black Swimshorts	
+1050119	Santa Boy Overall	
+1050120	Horoscope Overall (Male)	
+1050123	Royal Hanbok	
+1050124	Lunar Celebration Suit	
+1050125	Brown Casual Look	
+1050126	Imperial Uniform	
+1050127	Bath Towel (Black)	
+1050128	Go! Korea!	
+1050131	Blue Groomsman's Suit	Suits that guest males can wear to attend a wedding.
+1050132	Brown Groomsman's Suit	Suits that guest males can wear to attend a wedding.
+1050133	Red Groomsman's Suit	Suits that guest males can wear to attend a wedding.
+1050134	White Groomsman's Suit	Suits that guest males can wear to attend a wedding.
+1050135	Beau Tuxedo	Tailor-made Tuxedo for grooms
+1050136	Black Male Fur Coat	
+1050137	White Male Fur Coat	
+1050138	School uniform with hoody jumper	
+1050139	Simple school uniform	
+1050141	Kitty Hoodie (m)	
+1051000	Steel Fitted Mail	
+1051001	Emerald Fitted Mail	
+1051002	Cat Suit	
+1051003	Brown Doroness Robe	
+1051004	Purple Doroness Robe	
+1051005	Red Doroness Robe	
+1051006	Dark Avenger	
+1051007	Red Avenger	
+1051008	Blue Avenger	
+1051009	Purple Avenger	
+1051010	Dark Engrit	
+1051011	Red Engrit	
+1051012	Blue Engrit	
+1051013	Yellow Engrit	
+1051014	Sapphire Fitted Mail	
+1051015	Blood Fitted Mail	
+1051016	Silver Fitted Mail	
+1051017	Red Sauna Robe	If worn inside the hotel sauna, the recovery rate of HP and MP will be 1.5x faster.
+1051018	Purple Skull Overall	
+1051019	Orange Skull Overall	
+1051020	Green Skull Overall	
+1051021	Blue Skull Overall	
+1051022	Grey Skull Overall	
+1051023	Purple Moonlight	
+1051024	Red Moonlight	
+1051025	Blue Moonlight	
+1051026	Dark Moonlight	
+1051027	Brown Moonlight	
+1051028	White Swimming Suit	
+1051029	Red Swimming Suit	
+1051030	Dark Calaf	
+1051031	White Calaf	
+1051032	Blue Calaf	
+1051033	Red Calaf	
+1051034	Orange Calaf	
+1051035	Fine Red Hanbok Dress	
+1051036	Fine Blue Hanbok Dress	
+1051037	Blue Lumati	
+1051038	Green Lumati	
+1051039	Red Lumati	
+1051040	Dark Enamel Suit	
+1051041	Red Choro	
+1051042	Blue Choro	
+1051043	Brown Choro	
+1051044	Blue Anakarune	
+1051045	Red Anakarune	
+1051046	White Anakarune	
+1051047	Dark Anakarune	
+1051048	Witch Clothes	
+1051049	Mrs. Claus Costume	
+1051050	Blue Celebration Hanbok Dress	
+1051051	Pink Celebration Hanbok Dress	
+1051052	Blue Requierre	
+1051053	Red Requierre	
+1051054	Brown Requierre	
+1051055	Dark Requierre	
+1051056	Green Enigma	
+1051057	Purple Enigma	
+1051058	Dark Enigma	
+1051059	Pink Nurse Uniform	
+1051060	White Nurse Uniform	
+1051061	Women's Ninja Uniform	
+1051062	Blue Lineros	
+1051063	Beige Lineros	
+1051064	Green Lineros	
+1051065	Dark Lineros	
+1051066	Red Pria	
+1051067	Blue Pria	
+1051068	Green Pria	
+1051069	Dark Pria	
+1051070	Bunny Costume	
+1051071	Pink Kimono	
+1051072	White Kimono	
+1051073	Red Kimono	
+1051074	Yellow Kimono	
+1051075	Blue Swimming Suit	
+1051076	Ghost Suit	
+1051077	Yellow Battle Empress	
+1051078	Red Battle Empress	
+1051079	Blue Battle Empress	
+1051080	Dark Battle Empress	
+1051081	Purple Kimono	
+1051082	Red Anes	
+1051083	Blue Anes	
+1051084	Green Anes	
+1051085	Dark Anes	
+1051086	Ragged Korean Costume	
+1051087	Pink Mesoranger	
+1051088	Yellow Mesoranger	
+1051089	Black Mesoranger	
+1051090	Green Katte	
+1051091	Blue Katte	
+1051092	Red Katte	
+1051093	Dark Katte	
+1051094	Green Oriental Fury Coat	
+1051095	Blue Oriental Fury Coat	
+1051096	Red Oriental Fury Coat	
+1051097	Black Oriental Fury Coat	
+1051098	Bathrobe for Women	
+1051099	Prep Uniform	
+1051100	Western Cowgirl	
+1051101	Green Bazura	
+1051102	Blue Bazura	
+1051103	Red Bazura	
+1051104	Dark Bazura	
+1051105	Green Armis	
+1051106	Blue Armis	
+1051107	Red Armis	
+1051108	Pink Picnic Dress	
+1051109	Yellow Picnic Dress	
+1051110	Purple Frill One Piece	
+1051111	Blue Frill One Piece	
+1051112	Boxing Gear (F)	
+1051113	Transparent Overall (F)	Use this Overall equip if you want to make your Overall equip transparent while still using all of the stats your Overall equip possesses.
+1051114	Wedding Dress	
+1051115	Sea Queen Dress	
+1051116	Race Queen Uniform	
+1051117	Diao Chan Dress	
+1051118	Pink Strapless Bikini	
+1051119	Blue Strapless Bikini	
+1051120	Flight Attendant Uniform	
+1051121	Tropical Dress	
+1051122	White Cat Costume	
+1051123	Violet Strapless Dress	
+1051124	Purple Ring One Piece	
+1051125	Black Cat Costume	
+1051126	Red Chinese Dress	
+1051127	Maid Uniform	
+1051128	Horoscope Overall (Female)	
+1051131	Santa Girl Overall	
+1051132	White Coat	
+1051133	Rough Coat	
+1051134	Leopard Print Coat	
+1051135	Ruffled Coat	
+1051136	Korean Dress for the Palace	
+1051137	Rabbit Fur Dress	
+1051138	Lunar Celebration Dress	
+1051139	White Ribboned Sailor Dress	
+1051140	Yellow Bath Towel	
+1051141	Female Shaman Costume	
+1051142	Vibrant Yellow Dress	
+1051143	Korean Flag Tank Top & Skirt	
+1051144	Elegant Black One Piece	
+1051147	Clubbing Look	
+1051148	Navy Blue Au Luxe	
+1051149	Princess Hanbok	
+1051150	?????	Dresses that guest females can wear to attend a wedding.
+1051151	?????	Dresses that guest females can wear to attend a wedding.
+1051152	?????	Dresses that guest females can wear to attend a wedding.
+1051153	?????	Dresses that guest females can wear to attend a wedding.
+1051154	Princess Isis	Elegant Wedding Dress for brides.
+1051155	Queen Mary	Modern, Sexy Wedding Dress for brides
+1051156	Black Female Fur Coat	
+1051157	White Female Fur Coat	
+1051158	School uniform with hoody jumper	
+1051159	Simple school uniform	
+1051160	Pink-Striped Dress	
+1051163	Gothic Overall	
+1051164	Kitty Hoodie (f)	
+1051167	Black Rockabilly Dress	
+1052000	Recycled Box	
+1052001	Paper Box	
+1052002	Cardboard Box	
+1052003	Blue Chinese Undead Costume	
+1052004	Maroon Chinese Undead Costume	
+1052005	Yellow Raincoat	
+1052006	Sky Blue Raincoat	
+1052007	Red Raincoat	
+1052008	Green Raincoat	
+1052009	Orange Overall	
+1052010	Pink Overall	
+1052011	Blue Overall	
+1052012	Green Overall	
+1052013	Graduation Gown	
+1052014	Ducky Costume	
+1052015	Blue Shinsun	
+1052016	Brown Shinsun	
+1052017	Orange Life-Jacket	
+1052018	Green Life-Jacket	
+1052019	Blue Life-Jacket	
+1052020	White Body Tights	
+1052021	Black Body Tights	
+1052022	White Holed Tights	
+1052023	Black Holed Tights	
+1052024	Big Kimono	
+1052025	Denim Overall	
+1052026	Grey Full Coat	
+1052027	Red Full Coat	
+1052028	Green Full Coat	
+1052029	Premium Trenchcoat	
+1052030	Toga	
+1052031	Reindeer Suit	
+1052032	Red Bruma	
+1052033	Green Bruma	
+1052034	Blue Bruma	
+1052035	Guan Yu Armor	
+1052036	Zhu-Ge-Liang Gown	
+1052037	Patissier Uniform	
+1052038	Blue Robot Pilotgear	
+1052039	Liu Bei Robe	
+1052040	Cao Cao Robe	
+1052041	Sun Quan Robe	
+1052042	Pink Robot Pilotgear	
+1052043	Hip Hop Sweats	
+1052044	Scuba Diving Suit	
+1052045	Mink Coat	
+1052046	Snowman Costume	
+1052047	Black Snowboard Overall	
+1052048	Brown Snowboard Overall	
+1052049	Yang In	
+1052050	Red Hip Hop	
+1052051	Blue Hip Hop	
+1052052	Musashi Costume	
+1052053	Teddy Bear Costume	
+1052054	Welder Look	
+1052055	Enamer	
+1052056	Soccer Uniform	
+1052057	England Soccer Uniform(No.7)	
+1052058	Brazil Soccer Uniform(No.10)	
+1052059	France Soccer Uniform(No.14)	
+1052060	England Soccer Uniform(No.8)	
+1052061	Brazil Soccer Uniform(No.9)	
+1052062	France Soccer Uniform(No.10)	
+1052063	USA Soccer Uniform(No.17)	
+1052064	Mexico Soccer Uniform(No.4)	
+1052065	USA Soccer Uniform(No.21)	
+1052066	Mexico Soccer Uniform(No.9)	
+1052067	Mummy Suit	
+1052068	Skull Suit	
+1052069	Flamboyant Autumn Gear	
+1052071	Red Mantle	
+1052072	Black Garina	
+1052075	Blue Dragon Armor	
+1052076	Blue Czar	
+1052077	Moon Bunny Costume	
+1052078	Soap Bubble Bonanza	
+1052079	Prince of Darkness	
+1052081	Training Uniform for Beginners	
+1052082	Elf Overall	
+1052083	Son Wu Kong robe	
+1052084	Golden Armor	
+1052087	Dark Blue Kimono	
+1052089	Black Overcoat of Doom	
+1052091	Sachiel Armor	
+1052092	Veamoth Armor	
+1052093	Janus Armor	
+1052094	Zhu Ba Jie Overall	
+1052135	Centaurus Legs	
+1052143	?????	
+1052144	Luxurious Padded Coat	
+1052145	?????	
+1052147	Chinese Lion Body	The bottom part of a lion costume famously worn during Lunar New Year celebrations.
+1052148	Bosshunter Armor	
+1052149	Bosshunter Gi	
+1052151	Bosshunter Armor	
+1052152	Bosshunter Gi	
+1050145	Violet Strapless Dress [m]	
+1051169	Sky Blue Picnicwear [F]	

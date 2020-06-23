@@ -1,0 +1,51 @@
+Shields		
+ID	Name	Description
+1092000	Steel Shield	
+1092001	Red Triangular Shield	
+1092002	Red Cross Shield	
+1092003	Stolen Fence	
+1092004	Skull Shield	
+1092005	Wooden Buckler	
+1092006	Mithril Buckler	
+1092007	Battle Shield	
+1092008	Pan Lid	
+1092009	Wooden Legend Shield	
+1092010	Silver Legend Shield	
+1092011	Adamantium Legend Shield	
+1092012	Steel Tower Shield	
+1092013	Mithril Tower Shield	
+1092014	Adamantium Tower Shield	
+1092015	Steel Ancient Shield	
+1092016	Silver Ancient Shield	
+1092017	Gold Ancient Shield	
+1092018	Seclusion Wristguard	
+1092019	Nimble Wristguard	
+1092020	Jurgen Wristguard	
+1092021	Mystic Shield	
+1092022	Palette	
+1092023	Steel Aquila Shield	
+1092024	Silver Aquila Shield	
+1092025	Gold Aquila Shield	
+1092026	Bronze Kalkan	
+1092027	Silver Kalkan	
+1092028	Gold Kalkan	
+1092029	Esther Shield	
+1092030	Maple Shield	
+1092031	Ladybug Shield	
+1092032	Cookie Shield	
+1092033	Clover Shield	
+1092034	Red Devil Shield	
+1092035	Cokeplay Shield	
+1092036	Green Hoflon	
+1092037	Violet Hoflon	
+1092038	Blue Hoflon	
+1092040	Snowflake Shield	
+1092041	Skill-Earning Shield	
+1092042	Gellerhead Shield	
+1092044	Love Knuckler	
+1092045	Maple Magician shield	
+1092046	Maple Warrior shield	
+1092047	Maple Theif shield	
+1092049	Dragon Khanjar	
+1092050	Khanjar	
+1092052	Black Phoenix Shield	 /An immensely strong shield imbued with the power of elder warriors. The shield is rumored to grow stronger over time.

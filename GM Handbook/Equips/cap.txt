@@ -1,0 +1,709 @@
+Hats		
+ID	Name	Description
+1000000	Blue Beanie	
+1000001	Fine Black Hanbok Hat	
+1000002	Fine Blue Hanbok Hat	
+1000003	Scream Mask	
+1000004	Old School Uniform Hat	
+1000005	Men's Ninja Hat	
+1000006	Samurai Hair-do	
+1000007	Hat of Death	
+1000008	Detective Hat	
+1000009	Mesoranger Red Helmet	
+1000010	Mesoranger Blue Helmet	
+1000011	Mesoranger Green Helmet	
+1000012	Mesoranger Black Helmet	
+1000013	Yellow Crown	
+1000014	Green Crown	
+1000015	Blue Crown	
+1000016	Red Crown	
+1000017	Van Hat	
+1000018	Kuniragi Hat	
+1000019	Goya Hat 3	
+1000020	Chief Hat	
+1000021	General's Wig	
+1000022	General's Wig	
+1000023	Race Ace Cap	
+1000025	Pilgrim Hat	
+1000026	Santa Boy Hat	
+1000027	Lunar Celebration Cap	
+1000029	Wedding veil	
+1000030	Sachiel Wig (M)	
+1000031	Veamoth Wig (M)	
+1000032	Janus Wig (M)	
+1001000	Orange Beanie	
+1001001	Hanbok Jobawi	
+1001002	Witch Hat	
+1001003	Pink Nurse Hat	
+1001004	White Nurse Hat	
+1001005	Women's Ninja Hat	
+1001006	SF Ninja Hat	
+1001007	Female Wig	
+1001008	A Ladylike Hat	
+1001009	Ribbon	
+1001010	Teddy Bear Hat	
+1001011	Strawberry Headgear	
+1001012	Tiara	
+1001013	Beret	
+1001014	Mesoranger Pink Helmet	
+1001015	Mesoranger Yellow Helmet	
+1001016	Mesoranger Black Helmet	
+1001017	Princess Tiara	
+1001018	Lady Blue	
+1001019	Lady Pink	
+1001020	Lady Yellow	
+1001021	The Gabera Hat	
+1001022	Van Hat w/ Heart	
+1001023	Picnic Hat	
+1001024	Diamond Tiara	
+1001025	Ruby Tiara	
+1001026	Red-Feathered Indian Bandana	
+1001027	Blue-Feathered Indian Bandana	
+1001028	Jami Wig	
+1001029	Yellow Bride's Veil	Flowing veil that brides wear on their Wedding Day.
+1001030	Diao Chan Headpiece	
+1001031	White Cat Ears	
+1001032	Black Cat Ears	
+1001033	Maid Hat	
+1001035	Maplehontas	
+1001036	Santa Girl Hat	
+1001037	Leopard Print Hat	
+1001038	Korean Dress Wig	
+1001039	Lunar Celebration Ornament	
+1001042	Purple Bride's Veil	Flowing veil that brides wear on their Wedding Day.
+1001043	Royal Tiara	Hand crafted Tiara that brides wear on their Wedding Day
+1001044	Green Bride's Veil	Flowing veil that brides wear on their Wedding Day.
+1001045	Sachiel Wig (F)	
+1001046	Veamoth Wig (F)	
+1001047	Janus Wig (F)	
+1001048	Gothic Mini Hat	
+1001049	Gothic Headband	
+1002000	Brown Flight Headgear	
+1002001	Metal Gear	
+1002002	Metal Koif	
+1002003	Steel Helmet	
+1002004	Great Brown Helmet	
+1002005	Iron Burgernet Helm	
+1002006	Bone Helm	
+1002007	Steel Full Helm	
+1002008	Brown Skullcap	
+1002009	Steel Football Helmet	
+1002010	Brown Winter Hat	
+1002011	Iron Viking Helm	
+1002012	Red Baseball Cap	
+1002013	Golden Pride	
+1002014	Red Headband	
+1002015	Red Swimming Goggle	
+1002016	Green Wizardry Hat	
+1002017	Brown Apprentice Hat	
+1002018	Green Camping Hat	
+1002019	White Bandana	
+1002020	Red Starry Bandana	
+1002021	Steel Nordic Helm	
+1002022	Old Steel Nordic Helm	
+1002023	Jousting Helmet	
+1002024	Emerald Dome	
+1002025	Red Duke	
+1002026	Brown Bamboo Hat	
+1002027	Steel Sharp Helm	
+1002028	Silver Crusader Helm	
+1002029	Red Oriental Helmet	
+1002030	Silver Planet	
+1002031	Cat Hat	
+1002032	Puffy Brown Hat	
+1002033	Old Wisconsin	
+1002034	Blue Jester	
+1002035	Pink Jester	
+1002036	Green Jester	
+1002037	Black Jester	
+1002038	Brown Jester	
+1002039	Bronze Helmet	
+1002040	Mithril Helmet	
+1002041	Yellow Metal Gear	
+1002042	Blue Metal Gear	
+1002043	Bronze Koif	
+1002044	Mithril Koif	
+1002045	Blue Bone Helm	
+1002046	Red Bone Helm	
+1002047	Great Red Helmet	
+1002048	Great Blue Helmet	
+1002049	Gold Burgernet Helm	
+1002050	Orihalcon Burgernet Helm	
+1002051	Bronze Full Helm	
+1002052	Mithril Full Helm	
+1002053	Green Skullcap	
+1002054	Red Skullcap	
+1002055	Bronze Football Helmet	
+1002056	Mithril Football Helmet	
+1002057	Green Winter Hat	
+1002058	Mithril Viking Helm	
+1002059	Bronze Viking Helm	
+1002060	Black Baseball Cap	
+1002061	Yellow Baseball Cap	
+1002062	Brown Baseball Cap	
+1002063	Blue Baseball Cap	
+1002064	Bronze Pride	
+1002065	Steel Pride	
+1002066	Black Headband	
+1002067	Green Headband	
+1002068	Yellow Headband	
+1002069	Blue Headband	
+1002070	Green Swimming Goggle	
+1002071	Blue Swimming Goggle	
+1002072	Blue Wizardry Hat	
+1002073	Red Wizardry Hat	
+1002074	Blue Apprentice Hat	
+1002075	Red Apprentice Hat	
+1002076	Red Flight Headgear	
+1002077	Blue Flight Headgear	
+1002078	Sky Blue Camping Hat	
+1002079	Pink Camping Hat	
+1002080	Red Bandana	
+1002081	Blue Bandana	
+1002082	Yellow Bandana	
+1002083	Black Bandana	
+1002084	Blue Oriental Helmet	
+1002085	Mithril Crusader Helm	
+1002086	Bronze Crusader Helm	
+1002087	Mithril Sharp Helm	
+1002088	Gold Sharp Helm	
+1002089	Green Bamboo Hat	
+1002090	Blue Bamboo Hat	
+1002091	Dark Dome	
+1002092	Yellow Duke	
+1002093	Blue Duke	
+1002094	Bronze Planet	
+1002095	Mithril Planet	
+1002096	Sky Blue Starry Bandana	
+1002097	Yellow Starry Bandana	
+1002098	Gold Nordic Helm	
+1002099	Mithril Nordic Helm	
+1002100	Old Bronze Nordic Helm	
+1002101	Old Mithril Nordic Helm	
+1002102	Blue Moon Conehat	
+1002103	Pink Moon Conehat	
+1002104	Green Moon Conehat	
+1002105	Dark Moon Conehat	
+1002106	Brown Moon Conehat	
+1002107	Red Thief Hood	
+1002108	Blue Thief Hood	
+1002109	Green Thief Hood	
+1002110	Black Thief Hood	
+1002111	Yellow Thief Hood	
+1002112	Red Feather Hat	
+1002113	Blue Feather Hat	
+1002114	Green Feather Hat	
+1002115	Black Feather Hat	
+1002116	Brown Feather Hat	
+1002117	Red Robin Hat	
+1002118	Blue Robin Hat	
+1002119	Green Robin Hat	
+1002120	Black Robin Hat	
+1002121	Brown Robin Hat	
+1002122	Red Ghetto Beanie	
+1002123	Blue Ghetto Beanie	
+1002124	Brown Ghetto Beanie	
+1002125	Black Ghetto Beanie	
+1002126	Green Ghetto Beanie	
+1002127	Red Loosecap	
+1002128	Blue Loosecap	
+1002129	Brown Loosecap	
+1002130	Black Loosecap	
+1002131	Green Loosecap	
+1002132	Black Swimming Cap	
+1002133	Blue Swimming Cap	
+1002134	Red Swimming Cap	
+1002135	Brown Pole-Feather Hat	
+1002136	Dark Pole-Feather Hat	
+1002137	Green Pole-Feather Hat	
+1002138	Blue Pole-Feather Hat	
+1002139	Red Pole-Feather Hat	
+1002140	Wizet Invincible Hat	
+1002141	Red Matty	
+1002142	Blue Matty	
+1002143	Green Matty	
+1002144	Brown Matty	
+1002145	Dark Matty	
+1002146	Red Tiberian	
+1002147	Blue Tiberian	
+1002148	Green Tiberian	
+1002149	Brown Tiberian	
+1002150	Dark Tiberian	
+1002151	Brown Guiltian	
+1002152	Blue Guiltian	
+1002153	Red Guiltian	
+1002154	Dark Guiltian	
+1002155	White Guiltian	
+1002156	Red Hunter	
+1002157	Blue Hunter	
+1002158	Green Hunter	
+1002159	Black Hunter	
+1002160	Brown Hunter	
+1002161	Red Hawkeye	
+1002162	Blue Hawkeye	
+1002163	Green Hawkeye	
+1002164	Brown Hawkeye	
+1002165	Dark Hawkeye	
+1002166	Red Distinction	
+1002167	Blue Distinction	
+1002168	Green Distinction	
+1002169	Brown Distinction	
+1002170	Dark Distinction	
+1002171	Red Guise	
+1002172	Blue Guise	
+1002173	Green Guise	
+1002174	Brown Guise	
+1002175	Dark Guise	
+1002176	Red Burgler	
+1002177	Blue Burgler	
+1002178	Green Burgler	
+1002179	Brown Burgler	
+1002180	Dark Burgler	
+1002181	Red Pilfer	
+1002182	Blue Pilfer	
+1002183	Green Pilfer	
+1002184	Brown Pilfer	
+1002185	Dark Pilfer	
+1002186	Transparent Hat	If you want to use the abilities available through hats, yet still want to show off your hairstyle, use this.
+1002187	Blue Cowboy Hat	
+1002188	Red Cowboy Hat	
+1002189	Dark Cowboy Hat	
+1002190	Blue Pre-School Hat	
+1002191	Red Pre-School Hat	
+1002192	The Chinese Undead's Hat (Blue)	
+1002193	The Chinese Undead's Hat (Maroon)	
+1002194	Rosy Swimming Cap	
+1002195	Flowery Swimming Cap	
+1002196	Blue Baseball Helmet	
+1002197	Red Baseball Helmet	
+1002198	Indigo Baseball Helmet	
+1002199	Black Baseball Helmet	
+1002200	Green Visor	
+1002201	Sky Blue Visor	
+1002202	Orange Visor	
+1002203	Yellow Rain Cap	
+1002204	Red Rain Cap	
+1002205	Sky Blue Rain Cap	
+1002206	Green Rain Cap	
+1002207	Red Sonata	
+1002208	Blue Sonata	
+1002209	Green Sonata	
+1002210	Brown Sonata	
+1002211	Blue Maro	
+1002212	Red Maro	
+1002213	Green Maro	
+1002214	Black Maro	
+1002215	Flame Golden Circlet	
+1002216	Aqua Golden Circlet	
+1002217	Orange Golden Circlet	
+1002218	Dark Golden Circlet	
+1002219	Zorro Hat	
+1002220	Black Slanted Visor	
+1002221	Purple Slanted Visor	
+1002222	Red Upside-Down Visor	
+1002223	Blue Upside-Down Visor	
+1002224	Tiger Mask	
+1002225	Santa Hat	
+1002226	Fashionable Hat	
+1002227	Blue Fisherman Hat	
+1002228	Cabbie	
+1002229	Goggled Red Cap	
+1002230	Goggled Black Cap	
+1002231	Goggled Blue Cap	
+1002232	Starry Red Beanie	
+1002233	Starry Pink Beanie	
+1002234	Starry Sky Blue Beanie	
+1002235	Sky Blue Goggled Beanie	
+1002236	Khaki Goggled Beanie	
+1002237	Blue Cap	
+1002238	Construction Hardhat	
+1002239	The Legendary Gold Poop Hat	While the character chats, the quote bubble is in gold. If combined with the Golden Fly Ring, the fly effect takes place.
+1002240	Hajimaki	
+1002241	Techwin Wig	
+1002242	Red Seraphis	
+1002243	Blue Seraphis	
+1002244	Green Seraphis	
+1002245	White Seraphis	
+1002246	Dark Seraphis	
+1002247	Bronze Identity	
+1002248	Silver Identity	
+1002249	Dark Identity	
+1002250	Headphone Bandana	
+1002251	The Graduation Hat	
+1002252	Red Infinium Circlet	
+1002253	Blue Infinium Circlet	
+1002254	Dark Infinium Circlet	
+1002255	Circus Cowboy Hat	
+1002256	Orange Mushroom Hat	
+1002257	Blue Mushroom Hat	
+1002258	Blue Diamondy Bandana	
+1002259	Black Top Hat	
+1002260	Yellow Trucker Hat	
+1002261	Blue Trucker Hat	
+1002262	Red Trucker Hat	
+1002263	Green Trucker Hat	
+1002264	Hardhat	
+1002265	Elf's Ear	
+1002266	Basic Earmuff	
+1002267	Red Polyfeather Hat	
+1002268	Brown Polyfeather Hat	
+1002269	White Polyfeather Hat	
+1002270	Black Polyfeather Hat	
+1002271	Green Galaxy	
+1002272	Blue Galaxy	
+1002273	Purple Galaxy	
+1002274	Dark Galaxy	
+1002275	Blue Falcon	
+1002276	Red Falcon	
+1002277	Green Falcon	
+1002278	Dark Falcon	
+1002279	Bunny Hat	
+1002280	Ducky Hat	
+1002281	Brown Nightfox	
+1002282	Blue Nightfox	
+1002283	Purple Nightfox	
+1002284	White Nightfox	
+1002285	Blood Nightfox	
+1002286	Blue Patriot	
+1002287	Beige Patriot	
+1002288	Green Patriot	
+1002289	Dark Patriot	
+1002290	Camouflaged Helmet	
+1002291	Starred Hunting Hat	
+1002292	Pink Frill Pajama Hat	
+1002293	Blue Pajama Hat	
+1002294	Red Frill Pajama Hat	
+1002295	Chef's Hat	
+1002296	Slime Hat	
+1002297	Brown Bucket Hat	
+1002298	Blue Bucket Hat	
+1002299	Cubic Newsie Hat	
+1002300	Green Picnic Hat	
+1002301	Yellow Picnic Hat	
+1002302	Pink Picnic Hat	
+1002303	Blue Picnic Hat	
+1002304	Silver-Chain Hat	
+1002305	Blue Headband	
+1002306	Brown Headband	
+1002307	Blue B-Ball Headband	
+1002308	Orange B-Ball Headband	
+1002309	Watermelon Hat	
+1002310	Flower Crown	
+1002311	Traveler's Hat	
+1002312	Evil Watermelon Hat	
+1002313	Palm Tree Hat	
+1002314	Zombie Mushroom Hat	
+1002315	Red Straw Hat	
+1002316	Blue Straw Hat	
+1002317	Grey Headband	
+1002318	Red Headband	
+1002319	Whale Hat	
+1002320	Fuji Hat	
+1002321	Crow Hat	
+1002322	Lobster Hat	
+1002323	Green Osfa Hat	
+1002324	Brown Osfa Hat	
+1002325	Purple Osfa Hat	
+1002326	Red Osfa Hat	
+1002327	Brown Pireta Hat	
+1002328	Green Pireta Hat	
+1002329	Red Pireta Hat	
+1002330	Dark Pireta Hat	
+1002331	Wind Goblin	
+1002332	Cloud Goblin	
+1002333	Angel's Halo	
+1002334	Raccoon Hat	
+1002335	Triangular Hat	
+1002336	Noble Moca	
+1002337	Laurel Crown	
+1002338	Red Dragon Babuta	
+1002339	Blue Dragon Babuta	
+1002340	Dark Dragon Babuta	
+1002341	Starry Olive Beanie	
+1002342	Olive Beanie	
+1002343	White Beanie	
+1002344	Woodsman Hat	
+1002345	Party Hat	
+1002346	Blue Corporal Hat	
+1002347	Brown Corporal Hat	
+1002348	Bamboo Hat	
+1002349	Black Cowboy Hat	
+1002350	Red Cowboy Hat	
+1002351	Yellow Cowboy Hat	
+1002352	Red Knitted Hat	
+1002353	Purple Knitted Hat	
+1002354	Yellow Knitted Hat	
+1002355	Blue Kitty Beanie	
+1002356	Yellow Kitty Beanie	
+1002357	Zakum Helmet (1)	
+1002358	Green Knitted Gumball	
+1002359	Blue Knitted Gumball	
+1002360	Pink Knitted Gumball	
+1002361	Red Festive Gumball	
+1002362	White Festive Gumball	
+1002363	Green Oriental Fury Hat	
+1002364	Blue Oriental Fury Hat	
+1002365	Red Oriental Fury Hat	
+1002366	Black Oriental Fury Hat	
+1002367	Angel Halo	
+1002368	Reindeer Hat	
+1002369	Tentacle Hairband	
+1002370	Black-Striped Indian Hat	
+1002371	Red-Dotted Indian Hat	
+1002372	Indian Hat w/ Hearts	
+1002373	Cloth Wrapper	
+1002374	Red Beret	
+1002375	Yellow Beret	
+1002376	Pink Beret	
+1002377	Green Valhalla Helmet	
+1002378	Blue Valhalla Helmet	
+1002379	Dark Valhalla Helmet	
+1002380	Green Canal Hood	
+1002381	Blue Canal Hood	
+1002382	Red Canal Hood	
+1002383	Dark Canal Hood	
+1002384	Casual Cowboy Hat	
+1002385	Red Eskimo Hat	
+1002386	Brown Eskimo Hat	
+1002387	Green Eskimo Hat	
+1002388	Peter Pan Hat	
+1002389	Devil Hat	
+1002390	Zakum Helmet (2)	
+1002391	Green Bandana	
+1002392	Brown Bandana	
+1002393	Pink Bandana	
+1002394	Grey Bandana	
+1002395	Purple Bandana	
+1002396	Hawaiian Flower	
+1002397	Sunflower Petal	
+1002398	Green Varr Hat	
+1002399	Blue Varr Hat	
+1002400	Red Varr Hat	
+1002401	Dark Varr Hat	
+1002402	Red Arlic Helmet	
+1002403	Blue Arlic Helmet	
+1002404	Green Arlic Helmet	
+1002405	Dark Arlic Helmet	
+1002406	Red Arnah Cap	
+1002407	Blue Arnah Cap	
+1002408	Green Arnah Cap	
+1002409	Tin Bucket	
+1002410	Pink Turban	
+1002411	Yellow Turban	
+1002412	Sky Blue Turban	
+1002413	Octopus Hat	
+1002414	Orange Mushroom Hat	
+1002415	Zombie Mushroom Hat	
+1002416	Slime Hat	
+1002417	Drake Hat	
+1002418	Newspaper Hat	
+1002419	Mark of the Beta	
+1002420	Biker Bandana	
+1002421	Pink Knitted Beanie	
+1002422	Blue Knitted Beanie	
+1002423	Yellow Knitted Beanie	
+1002424	Red Sporty Cap	
+1002425	Blue Sporty Cap	
+1002426	Beige Goya Beret	
+1002427	Green Goya Beret	
+1002428	Beige Checkered Hat	
+1002429	Meshcap	
+1002430	Zakum Helmet (3)	
+1002431	Bull's Horn	
+1002432	Spring Hat	
+1002433	Summer Hat	
+1002434	Autumn Hat	
+1002435	Korean Flower Petal	
+1002436	Chief Stan Hat	
+1002437	Guan Yu Headpiece	
+1002438	Zhu-Ge-Liang Hat	
+1002439	Blue Jelly Cap	
+1002440	Pink Jelly Cap	
+1002441	Ribboned Pig Headband	
+1002442	Rainbow Afro Wig	
+1002443	Patissier Hat	
+1002444	Liu Bei Headpiece	
+1002445	Cao Cao Headpiece	
+1002446	Sun Quan Headpiece	
+1002447	Rolled Towel	
+1002448	Purple Bandana	
+1002449	Winged Cap	
+1002450	Conch Cap	
+1002451	Starfish	
+1002452	Black Starry Bandana	
+1002453	White Starry Bandana	
+1002454	Red Starry Bandana	
+1002455	Black Starry Bandana	
+1002456	Horoscope Hat (Aquarius)	
+1002457	Horoscope Hat (Pisces)	
+1002458	Horoscope Hat (Aries)	
+1002459	Horoscope Hat (Taurus)	
+1002460	Horoscope Hat (Gemini)	
+1002461	Horoscope Hat (Cancer)	
+1002462	Horoscope Hat (Leo)	
+1002463	Horoscope Hat (Virgo)	
+1002464	Horoscope Hat (Libra)	
+1002465	Horoscope Hat (Scorpius)	
+1002466	Horoscope Hat (Sagittarius)	
+1002467	Horoscope Hat (Capricornos)	
+1002468	Golden Bulldog Hat	
+1002469	Jester Hat	
+1002470	Welding Mask	
+1002471	Shapka for Hunters	
+1002476	Rough Hat	
+1002477	Slime Hair Pin	
+1002478	Mushroom Hair Pin	
+1002479	Snowman Mask	
+1002480	White Wig Hat	
+1002481	Black Snowboard Helmet	
+1002482	Red Snowboard Helmet	
+1002483	Goblin Cap	
+1002484	Polar Bear Hat	
+1002485	Grey Visor Beanie	
+1002486	Green Visor Beanie	
+1002487	Rainbow Visor Beanie	
+1002488	Military Fur Hat	
+1002489	Football Helmet(Home)	
+1002490	Football Helmet(Away)	
+1002491	Musashi Hat	
+1002492	White Baseball Cap	
+1002493	Teddy Bear Headgear	
+1002495	Angora Hat	
+1002496	Black Skull Bandana	
+1002497	Hunting Cap	
+1002498	Bald Wig	
+1002499	White Tiger Hat	
+1002500	Korean Flag Bandana	
+1002501	Reggae Hat	
+1002502	Vintage Denim Hat	
+1002503	Vintage Pink Hat	
+1002504	Old Fisherman Hat	
+1002505	Sergeant Hat	
+1002506	Flower Crown	
+1002507	Soccer Ball Hat	
+1002508	Maple Hat	
+1002509	Maple Hat	
+1002510	Maple Hat	
+1002511	Maple Hat	
+1002512	Red Spirit Bandana	
+1002513	Maple Party Hat	
+1002515	Maple Bandana White	
+1002516	Maple Bandana Yellow	
+1002517	Maple Bandana Red	
+1002518	Maple Bandana Blue	
+1002519	White Felt Hat	
+1002520	Red Rose	
+1002521	White Hairband	
+1002522	Pink-Dotted Hairband	
+1002523	Paper Boat Hat	
+1002524	Coke Hat	
+1002525	Mummy Hat	
+1002526	Skull Hat	
+1002527	Independence Day Hat	
+1002528	Green Grace Helmet	
+1002529	Blue Grace Helmet	
+1002530	Red Grace Helmet	
+1002531	Silver Grace Helmet	
+1002532	Dark Grace Helmet	
+1002534	White Puppy Hat	
+1002536	Brown Paperbag Mask	
+1002542	Acorn Headgear	
+1002543	Acorn Helmet	
+1002544	Pumpkin Headgear	
+1002545	Yellow Slime Hat	
+1002547	Red Hunter	
+1002550	Black Garina Hood	
+1002551	Blue Dragon Helmet	
+1002552	Moon Bunny Headgear	
+1002553	Genesis Bandana	
+1002554	Muey Thai String	
+1002555	Demon Goblin	
+1002556	Maple-Stein	
+1002557	Jr. Lioner Hat	
+1002558	Werebeast	
+1002559	Nordic Knitted Beanie	
+1002560	Striped Knitted Beanie	
+1002562	Training Headgear for Beginners	
+1002565	Fur Hat	
+1002566	Skull Beanie	
+1002567	Elf Hat	
+1002568	Tweed Headband	
+1002569	Candlelight hat	
+1002571	Lord Pirate's Hat	
+1002572	Lord Pirate's Hat	
+1002573	Lord Pirate's Hat	
+1002574	Lord Pirate's Hat	
+1002575	Angel Headband	
+1002576	Fallen Angel Headband	
+1002577	Pickpocket Pilfer	
+1002578	Herculean Helmet	
+1002579	LeFay Jester	
+1002580	Lockewood Hat	
+1002584	Red Old Wisconsin	
+1002585	Blue Old Wisconsin	
+1002586	Purple Old Wisconsin	
+1002587	Black Old Wisconsin	
+1002590	Star baseball cap	
+1002591	Leatty Hat	
+1002592	Son Wu Kong hat	
+1002593	Smiley Headgear	
+1002594	Goggled Smiley Headgear	
+1002597	Husky Hat	
+1002598	Rabbit ear	
+1002599	Golden Trench Helmet	
+1002600	Red Maple Bandana	
+1002601	Yellow Maple Bandana	
+1002602	Blue Maple Bandana	
+1002603	White Maple Bandana	
+1002607	Zhu Ba Jie Hat	
+1002608	Superstar Cap	
+1002650	Vintage Grey Cap	
+1002653	Stack of Books	
+1002655	Versal Maro	
+1002656	White Identity	
+1002657	Spectre Helm	
+1002658	Valor Helmet	
+1002660	Orange Cap w/ Shades	
+1002661	Bird Nest	
+1002662	Flower decoration celebrating wedding anniversary	
+1002663	Cork hat	
+1002666	White basic cap	
+1002667	Star Hair Pin	
+1002675	Antellion Miter	A restored headpiece of the Antellion Guard; extends the wearer's lifeforce and magical power.
+1002676	Infinity Circlet	An ancient, revered symbol of insight. Awarded to those who achieved perfect union of mind, body and soul.
+1002677	Toymaker Cap	
+1002678	Old Hockey Mask	
+1002679	Eye Poppers	
+1002691	Centaurus Horns	
+1002692	Centaurus Horns (Ghost)	
+1002693	Centaurus Horns (Green)	
+1002694	Centaurus Horns (Light)	
+1002698	Vintage Khaki Cap	
+1002700	Luscious Eyes Green	
+1002701	Extravagant Lips Green	
+1002703	Luscious Eyes - Blue Skin	
+1002704	Luscious Eyes - Normal	
+1002705	Extravagant Lips - Blue Skin	
+1002706	Extravagant Lips - Normal	
+1002713	Black Bubble Beanie	
+1002714	Christmas Tree Hat	
+1002715	Military Beanie	
+1002716	Versalmas Hat	
+1002717	Maplemas Hat	
+1002721	Raccoon Earmuffs	
+1002722	Teddy Earmuffs	
+1002724	Cat Hat	
+1002725	Pierced Apple	
+1002726	Umbrella Hat	
+1002727	Huge Pink Ribbon	
+1002734	Chinese Lion Head	Top part of a lion costume famously worn during Lunar New Year
+1002738	Bunny Earmuffs	
+1002739	Bosshunter Helm	
+1002740	Bosshunter Faceguard	
+1002741	Yellow Baby Dragon Hat	
+1002747	Superstar Headphones	
+1002748	Apple-Green Hood	
+1002749	Bosshunter Helm	
+1002750	Bosshunter Faceguard	
+1002752	Celestial Crown	
+1002757	football steel helmet	

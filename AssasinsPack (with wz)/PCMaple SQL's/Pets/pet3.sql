@@ -1,0 +1,1 @@
+ALTER TABLE `inventoryitems` ADD COLUMN `petid` INTEGER NOT NULL DEFAULT '-1' AFTER `owner`;

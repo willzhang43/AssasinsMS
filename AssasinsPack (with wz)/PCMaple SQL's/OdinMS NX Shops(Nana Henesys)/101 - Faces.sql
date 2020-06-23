@@ -1,0 +1,15 @@
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160014, 5000000, 1);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160011, 5000000, 2);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160013, 5000000, 3);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160007, 5000000, 4);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160009, 5000000, 5);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160005, 5000000, 6);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160001, 5000000, 7);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160000, 5000000, 8);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160008, 5000000, 9);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160003, 5000000, 10);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160006, 5000000, 11);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160002, 5000000, 12);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160010, 5000000, 13);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160004, 5000000, 14);
+INSERT INTO shopitems (shopid, itemid, price, position) VALUES (101, 5160012, 5000000, 15);

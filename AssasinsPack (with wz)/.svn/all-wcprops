@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/odinms/!svn/ver/988/odinms/trunk/net.sf.odinms
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/odinms/!svn/ver/875/odinms/trunk/net.sf.odinms/db.properties
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/odinms/!svn/ver/845/odinms/trunk/net.sf.odinms/logging.properties
+END
+world.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/odinms/!svn/ver/968/odinms/trunk/net.sf.odinms/world.properties
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/odinms/!svn/ver/867/odinms/trunk/net.sf.odinms/LICENSE
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/odinms/!svn/ver/729/odinms/trunk/net.sf.odinms/.project
+END
+launch_world.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/odinms/!svn/ver/876/odinms/trunk/net.sf.odinms/launch_world.bat
+END
+update.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/odinms/!svn/ver/902/odinms/trunk/net.sf.odinms/update.bat
+END
+odinms.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/odinms/!svn/ver/921/odinms/trunk/net.sf.odinms/odinms.sql
+END
+UPGRADE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/odinms/!svn/ver/909/odinms/trunk/net.sf.odinms/UPGRADE
+END
+launch_world.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/odinms/!svn/ver/882/odinms/trunk/net.sf.odinms/launch_world.sh
+END
+update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/odinms/!svn/ver/902/odinms/trunk/net.sf.odinms/update.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/odinms/!svn/ver/880/odinms/trunk/net.sf.odinms/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/odinms/!svn/ver/886/odinms/trunk/net.sf.odinms/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/odinms/!svn/ver/729/odinms/trunk/net.sf.odinms/.classpath
+END
+login.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/odinms/!svn/ver/878/odinms/trunk/net.sf.odinms/login.properties
+END
+channel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/odinms/!svn/ver/878/odinms/trunk/net.sf.odinms/channel.properties
+END
+sendops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/odinms/!svn/ver/977/odinms/trunk/net.sf.odinms/sendops.properties
+END
+launch_login.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/odinms/!svn/ver/876/odinms/trunk/net.sf.odinms/launch_login.bat
+END
+launch_channel.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/odinms/!svn/ver/876/odinms/trunk/net.sf.odinms/launch_channel.bat
+END
+packetops.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/odinms/!svn/ver/977/odinms/trunk/net.sf.odinms/packetops.txt
+END
+codeFormater.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/odinms/!svn/ver/948/odinms/trunk/net.sf.odinms/codeFormater.xml
+END
+launch_login.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/odinms/!svn/ver/882/odinms/trunk/net.sf.odinms/launch_login.sh
+END
+launch_channel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/odinms/!svn/ver/882/odinms/trunk/net.sf.odinms/launch_channel.sh
+END
+recvops.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/odinms/!svn/ver/977/odinms/trunk/net.sf.odinms/recvops.properties
+END

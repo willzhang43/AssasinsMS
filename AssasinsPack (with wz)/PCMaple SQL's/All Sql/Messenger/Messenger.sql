@@ -1,0 +1,2 @@
+ALTER TABLE `characters` ADD `messengerid` INTEGER UNSIGNED NOT NULL DEFAULT 0;
+ALTER TABLE `characters` ADD `messengerposition` INTEGER UNSIGNED NOT NULL DEFAULT 4; 

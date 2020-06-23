@@ -1,0 +1,2 @@
+This fixes the "This account has been deleted or blocked from connection"
+after unbanning someone manually through MYSQL.

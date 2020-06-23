@@ -1,0 +1,1 @@
+INSERT INTO reactordrops ( reactordropid, reactorid, itemid, chance ) VALUES ( 574, 2092001, 1472063, 1 );

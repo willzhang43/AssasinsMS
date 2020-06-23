@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ROOT SYSTEM "accounts.dtd">
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <row>
+      <field name="id">1</field>
+      <field name="name">willz</field>
+      <field name="password">03b4b81da3bd3b9b7b86d31543abe53ae78aeb7de056366d0e0a19238fde68163fe52f50a9efbc4deb7d9f198f6cba05dcfce77aa44059a17e12c506d7e9a89b</field>
+      <field name="salt">2c1663079b54d9027b918359fbe9d482</field>
+      <field name="loggedin">2</field>
+      <field name="lastlogin">2008-10-18 23:17:12</field>
+      <field name="createdat">2008-04-26 05:15:30</field>
+      <field name="birthday">2008-04-26</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"></field>
+      <field name="gm">1</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs">00-18-DE-95-38-AF, 7A-79-05-F7-76-66</field>
+      <field name="lastknownip">5.247.118.102</field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">100000</field>
+      <field name="mPoints">0</field>
+      <field name="gTokens">0</field>
+    </row>
+    <row>
+      <field name="id">2</field>
+      <field name="name">iamdead</field>
+      <field name="password">d033e22ae348aeb5660fc2140aec35850c4da997</field>
+      <field name="salt" xsi:nil="true" />
+      <field name="loggedin">0</field>
+      <field name="lastlogin">0000-00-00 00:00:00</field>
+      <field name="createdat">0000-00-00 00:00:00</field>
+      <field name="birthday">0000-00-00</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"> </field>
+      <field name="gm">1</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs"> </field>
+      <field name="lastknownip"></field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">0</field>
+      <field name="mPoints" xsi:nil="true" />
+      <field name="gTokens" xsi:nil="true" />
+    </row>
+    <row>
+      <field name="id">6</field>
+      <field name="name">yourmom</field>
+      <field name="password">c58f0961ab8dc1cd1877b993167c05afe65f97e521a1b7c45ab064f44cb5ea0b375dcbfbb80acb36873a1f9595de41b631bee168ee0fb1f860f4127acc8e8130</field>
+      <field name="salt">08ba3324f801144366fcd32bbbce4d70</field>
+      <field name="loggedin">0</field>
+      <field name="lastlogin">2008-10-18 22:02:34</field>
+      <field name="createdat">0000-00-00 00:00:00</field>
+      <field name="birthday">0000-00-00</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"> </field>
+      <field name="gm">0</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs">7A-79-05-43-47-21, 00-1E-68-E2-1C-91</field>
+      <field name="lastknownip">5.67.71.33</field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">0</field>
+      <field name="mPoints">0</field>
+      <field name="gTokens">0</field>
+    </row>
+    <row>
+      <field name="id">7</field>
+      <field name="name">jason1212</field>
+      <field name="password">d033e22ae348aeb5660fc2140aec35850c4da997</field>
+      <field name="salt" xsi:nil="true" />
+      <field name="loggedin">0</field>
+      <field name="lastlogin">0000-00-00 00:00:00</field>
+      <field name="createdat">0000-00-00 00:00:00</field>
+      <field name="birthday">0000-00-00</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"> </field>
+      <field name="gm">0</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs"> </field>
+      <field name="lastknownip"></field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">0</field>
+      <field name="mPoints" xsi:nil="true" />
+      <field name="gTokens" xsi:nil="true" />
+    </row>
+    <row>
+      <field name="id">8</field>
+      <field name="name">deacon123</field>
+      <field name="password">046ce6f88c1e82068606c34c87ac5fdeb6722cb80aa411186c1fc980b532d164b744315e63f34fbf32760197a0d701e5d35e08651254d9aee09eabfe92292d6f</field>
+      <field name="salt">009d602fd1d4ae4763ed63e2b1532ab8</field>
+      <field name="loggedin">0</field>
+      <field name="lastlogin">2008-10-18 22:36:23</field>
+      <field name="createdat">0000-00-00 00:00:00</field>
+      <field name="birthday">0000-00-00</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"> </field>
+      <field name="gm">0</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs">00-13-46-74-53-09, 7A-79-05-33-BC-36</field>
+      <field name="lastknownip">5.51.188.54</field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">10000</field>
+      <field name="mPoints">0</field>
+      <field name="gTokens">0</field>
+    </row>
+    <row>
+      <field name="id">9</field>
+      <field name="name">metalwing</field>
+      <field name="password">7164f8d9fbad83927b0bb1d55d4fab638f7fff30d559737b7672a61a4fd203f40c78088d2e260fee938ecfd257b09fc101e82c18b97fa31e74d1fee1787e79d4</field>
+      <field name="salt">3520121bc2b6c115d1382195fefab1e1</field>
+      <field name="loggedin">0</field>
+      <field name="lastlogin">2008-10-18 21:20:32</field>
+      <field name="createdat">0000-00-00 00:00:00</field>
+      <field name="birthday">0000-00-00</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"> </field>
+      <field name="gm">1</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs">08-00-46-BE-8C-50, 7A-79-05-33-0D-EF</field>
+      <field name="lastknownip">5.51.13.239</field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">0</field>
+      <field name="mPoints">0</field>
+      <field name="gTokens">0</field>
+    </row>
+    <row>
+      <field name="id">10</field>
+      <field name="name">silverwing0</field>
+      <field name="password">0d49e6e39db800d6e92cb7e9c0954d876a510bc4f27ad363eba5d3e9e4d227d28b373dd6691025ad08332cebb045a515010c50535167dcf8f5acfbfa42448be2</field>
+      <field name="salt">81fd4dc18fac6f7a3012e03c5fcbc503</field>
+      <field name="loggedin">0</field>
+      <field name="lastlogin">2008-10-18 21:55:18</field>
+      <field name="createdat">0000-00-00 00:00:00</field>
+      <field name="birthday">0000-00-00</field>
+      <field name="banned">0</field>
+      <field name="tempban">0000-00-00 00:00:00</field>
+      <field name="greason">0</field>
+      <field name="banreason"> </field>
+      <field name="gm">0</field>
+      <field name="email" xsi:nil="true" />
+      <field name="emailcode" xsi:nil="true" />
+      <field name="forumaccid">0</field>
+      <field name="macs">08-00-46-BE-8C-50, 7A-79-05-33-0D-EF</field>
+      <field name="lastknownip">5.51.13.239</field>
+      <field name="lastpwemail">2002-12-31 15:00:00</field>
+      <field name="nxCash">0</field>
+      <field name="mPoints">0</field>
+      <field name="gTokens">0</field>
+    </row>
+</ROOT>

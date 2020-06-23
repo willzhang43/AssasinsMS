@@ -1,0 +1,1 @@
+ALTER TABLE `skills` ADD COLUMN `masterlevel` INTEGER NOT NULL DEFAULT  '0' AFTER `skilllevel`;

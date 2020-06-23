@@ -1,0 +1,340 @@
+Shoes		
+ID	Name	Description
+1070000	Blue Gomushin	
+1070001	Black Santa Boots	
+1070002	Kimono Shoes	
+1070003	Black Shoes of Death	
+1070004	Blue Western Walkers	
+1070005	Santa Boy Boots	
+1070006	Royal Costume Shoes	
+1070007	Lunar Celebration Shoes	
+1070009	Paris Wingtips	Snazzy shoes for Grooms
+1071000	Blue Loose Sox	
+1071001	Red Loose Sox	
+1071002	Red Gomushin	
+1071003	Red Santa Boots	
+1071004	Pink Nurse Shoes	
+1071005	White Nurse Shoes	
+1071006	SF Ninja Shoes	
+1071007	Bunny Boots	
+1071008	Kimono Sandals	
+1071009	Red Western Walkers	
+1071010	Sea Queen Sandals	
+1071011	Race Queen Boots	
+1071012	Diao Chan Shoes	
+1071013	White Cat Shoes	
+1071014	Black Cat Shoes	
+1071015	Maid Shoes	
+1071016	Santa Girl Boots	
+1071017	Leopard Print Shoes	
+1071018	Brown Leather Boots	
+1071019	Lunar Celebration Pumps	
+1071020	Veras Heels	Traditional, elegant Bride heels
+1071021	Gothic Boots	
+1072000	Brown Jangoon Shoes	
+1072001	Red Rubber Boots	
+1072002	Steel Trigger	
+1072003	Emerald Battle Grieves	
+1072004	White Gomushin	
+1072005	Leather Sandals	
+1072006	Brown Basic Boots	
+1072007	Brown High Boots	
+1072008	Bronze Aroa Boots	
+1072009	Steel Grieves	
+1072010	Black Dress Shoes	
+1072011	Mithril War Boots	
+1072012	Red Whitebottom Boots	
+1072013	Red Air H's	
+1072014	Camping Boots	
+1072015	Brown Hard Leather Boots	
+1072016	Green Woodsman Boots	
+1072017	Blue Ankle-strap Sandals	
+1072018	Blue Sneakers	
+1072019	Blue Jewelry Boots	
+1072020	Purple Jewelry Boots	
+1072021	Red Jewelry Boots	
+1072022	Black Enamel Boots	
+1072023	Beige Nitty	
+1072024	Black Nitty	
+1072025	Deer Huntertop	
+1072026	Rabbit Huntertop	
+1072027	Brown Jack Boots	
+1072028	White Ninja Sandals	
+1072029	Yellow Ninja Sandals	
+1072030	Blue Ninja Sandals	
+1072031	Red Ninja Sandals	
+1072032	Bronze Chain Boots	
+1072033	Iron Chain Boots	
+1072034	Green Jack Boots	
+1072035	Silver Chain Boots	
+1072036	Gold Chain Boots	
+1072037	Yellow Rubber Boots	
+1072038	Blue Rubber Boots	
+1072039	Mithril Battle Grieves	
+1072040	Silver Battle Grieves	
+1072041	Blood Battle Grieves	
+1072042	Black Gomushin	
+1072043	Smelly Gomushin	
+1072044	Yellow Basic Boots	
+1072045	Blue Basic Boots	
+1072046	Orange High Boots	
+1072047	Blue High Boots	
+1072048	Brown Aroa Boots	
+1072049	Green Aroa Boots	
+1072050	Bronze Grieves	
+1072051	Silver War Boots	
+1072052	Dark War Boots	
+1072053	Gold War Boots	
+1072054	Orange Whitebottom Boots	
+1072055	Pink Whitebottom Boots	
+1072056	Blue Whitebottom Boots	
+1072057	Blue Air H's	
+1072058	Black Air H's	
+1072059	Green Hard Leather Boots	
+1072060	Brown Woodsman Boots	
+1072061	Blue Woodsman Boots	
+1072062	Red Ankle-strap Sandals	
+1072063	Brown Ankle-strap Sandals	
+1072064	Red Sneakers	
+1072065	Red Enamel Boots	
+1072066	Blue Enamel Boots	
+1072067	Bear Huntertop	
+1072068	Lion Huntertop	
+1072069	Red Jack Boots	
+1072070	Blue Gidder Shoes	
+1072071	Brown Gidder Shoes	
+1072072	Silver Windshoes	
+1072073	Yellow Windshoes	
+1072074	Black Windshoes	
+1072075	Red Magicshoes	
+1072076	Blue Magicshoes	
+1072077	White Magicshoes	
+1072078	Black Magicshoes	
+1072079	Red Hunter Boots	
+1072080	Blue Hunter Boots	
+1072081	Green Hunter Boots	
+1072082	Black Hunter Boots	
+1072083	Brown Hunter Boots	
+1072084	Blue Lappy Boots	
+1072085	Red Lappy Boots	
+1072086	Green Lappy Boots	
+1072087	Black Lappy Boots	
+1072088	Cowboy Boots	
+1072089	Purple Salt Shoes	
+1072090	Red Salt Shoes	
+1072091	Black Salt Shoes	
+1072092	Yellow Flippers	
+1072093	Blue Flippers	
+1072094	Yellow Rain Boots	
+1072095	Sky Blue Rain Boots	
+1072096	Red Rain Boots	
+1072097	Green Rain Boots	
+1072098	Blue Baseball Cleats	
+1072099	Red Baseball Cleats	
+1072100	Black Baseball Cleats	
+1072101	Blue Silky Boots	
+1072102	Green Silky Boots	
+1072103	Red Silky Boots	
+1072104	Red White-Lined Boots	
+1072105	Green White-Lined Boots	
+1072106	Blue White-Lined Boots	
+1072107	Black Red-Lined Shoes	
+1072108	Black Green-Lined Shoes	
+1072109	Black Yellow-Lined Shoes	
+1072110	Black Blue-Lines Shoes	
+1072111	Black Leather Boots	
+1072112	Mithril Trigger	
+1072113	Dark Trigger	
+1072114	Red Moon Shoes	
+1072115	Blue Moon Shoes	
+1072116	Gold Moon Shoes	
+1072117	Dark Moon Shoes	
+1072118	Red Pierre Shoes	
+1072119	Yellow Pierre Shoes	
+1072120	Brown Pierre Shoes	
+1072121	Blue Pierre Shoes	
+1072122	Brown Steel-Tip Boots	
+1072123	Green Steel-Tip Boots	
+1072124	Blue Steel-Tip Boots	
+1072125	Purple Steel-Tip Boots	
+1072126	Maroon Jangoon Shoes	
+1072127	Blue Jangoon Shoes	
+1072128	Blue Goni Shoes	
+1072129	Green Goni Shoes	
+1072130	Red Goni Shoes	
+1072131	Purple Goni Shoes	
+1072132	Emerald Hildon Boots	
+1072133	Mithril Hildon Boots	
+1072134	Orihalcon Hildon Boots	
+1072135	Gold Hildon Boots	
+1072136	Pink Goldrunners	
+1072137	Green Goldrunners	
+1072138	Orange Goldrunners	
+1072139	Blue Goldrunners	
+1072140	Pink Goldwind Shoes	
+1072141	Blue Goldwind Shoes	
+1072142	Purple Goldwind Shoes	
+1072143	Green Goldwind Shoes	
+1072144	Red Gore Boots	
+1072145	Blue Gore Boots	
+1072146	Green Gore Boots	
+1072147	Sapphire Camel Boots	
+1072148	Orihalcon Camel Boots	
+1072149	Blood Camel Boots	
+1072150	Blood Moss Boots	
+1072151	Gold Moss Boots	
+1072152	Dark Moss Boots	
+1072153	Transparent Shoes	Use these Shoes if you want to make your Shoes transparent while still using all of the stats your Shoes possess.
+1072154	Blue Carzen Boots	
+1072155	Purple Carzen Boots	
+1072156	Dark Carzen Boots	
+1072157	Blue Lapiz Sandals	
+1072158	Red Lapiz Sandals	
+1072159	Brown Lapiz Sandals	
+1072160	Gold Lapiz Sandals	
+1072161	Purple Mystique Shoes	
+1072162	Blue Mystique Shoes	
+1072163	Red Mystique Shoes	
+1072164	Blue Elf Shoes	
+1072165	Baige Elf Shoes	
+1072166	Green Elf Shoes	
+1072167	Dark Elf Shoes	
+1072168	Red Snowshoes	Put this on, and you won't be slipping around regardless of snow or ice.
+1072169	Blue Snowshoes	Put this on, and you won't be slipping around regardless of snow or ice.
+1072170	Green Snowshoes	Put this on, and you won't be slipping around regardless of snow or ice.
+1072171	Black Snowshoes	Put this on, and you won't be slipping around regardless of snow or ice.
+1072172	Green Pirate Boots	
+1072173	Red Pirate Boots	
+1072174	Dark Pirate Boots	
+1072175	Ninja Shoes	
+1072176	Military Boots	
+1072177	Green Enigma Shoes	
+1072178	Purple Enigma Shoes	
+1072179	Dark Enigma Shoes	
+1072180	Flipper Boots	
+1072181	Green Ting Slippers	
+1072182	Blue Wing Boots	
+1072183	Red Wing Boots	
+1072184	Green Wing Boots	
+1072185	Dark Wing Boots	
+1072186	Kitty Slipper	
+1072187	Blue Marble Slippers	
+1072188	Red Marble Slippers	
+1072189	Bunny Slippers	
+1072190	Blue B-ball Sneakers	
+1072191	Orange B-ball Sneakers	
+1072192	Green Osfa Boots	
+1072193	Brown Osfa Boots	
+1072194	Purple Osfa Boots	
+1072195	Red Osfa Boots	
+1072196	Emerald War Greave	
+1072197	Orihalcon War Greave	
+1072198	Dark War Greave	
+1072199	Ragged Korean Rubber Shoes	
+1072200	Brown Dress Shoes	
+1072201	Red Leather Boots	
+1072202	Mesoranger Boots	
+1072203	Red Ades Shoes	
+1072204	Green Ades Shoes	
+1072205	Dark Ades Shoes	
+1072206	Blue Neli Shoes	
+1072207	Green Neli Shoes	
+1072208	Red Neli Shoes	
+1072209	Dark Neli Shoes	
+1072210	Red Rivers Boots	
+1072211	Blue Rivers Boots	
+1072212	Dark Rivers Boots	
+1072213	Green Katina Boots	
+1072214	Blue Katina Boots	
+1072215	Red Katina Boots	
+1072216	Dark Katina Boots	
+1072217	Beige Golashes	
+1072218	Sky Blue Golashes	
+1072219	Pink Golashes	
+1072220	Green Crescent Boots	
+1072221	Blue Crescent Boots	
+1072222	Dark Crescent Boots	
+1072223	Green Varr Shoes	
+1072224	Blue Varr Shoes	
+1072225	Red Varr Shoes	
+1072226	Dark Varr Shoes	
+1072227	Red Arnah Shoes	
+1072228	Blue Arnah Shoes	
+1072229	Green Arnah Shoes	
+1072230	Black Boxing Shoes	
+1072231	Blue Boxing Shoes	
+1072232	Red Boxing Shoes	
+1072233	Bear Shoes	
+1072234	Bubbling Slippers	
+1072235	Slime Slippers	
+1072236	Guan Yu Shoes	
+1072237	Zhu-Ge-Liang Shoes	
+1072238	Violet Snowshoes	Put this on, and you won't be slipping around regardless of snow or ice.
+1072239	Yellow Snowshoes	Put this on, and you won't be slipping around regardless of snow or ice.
+1072240	Big Rabbit Feet	
+1072241	Liu Bei Shoes	
+1072242	Cao Cao Shoes	
+1072243	Sun Quan Shoes	
+1072244	Red Enamel Shoes	
+1072245	Blue Enamel Shoes	
+1072246	Pink Sneakers	
+1072247	Hunting Boots	
+1072248	Blue Basketball Shoes	
+1072249	Orange Basketball Shoes	
+1072250	Horoscope Shoes	
+1072251	Pro-Cat Sticker	
+1072252	Snowboard Boots	
+1072253	Snowman Shoes	
+1072254	Football Cleats(Home)	
+1072255	Football Cleats(Away)	
+1072256	Teddy Bear Shoes	
+1072257	Puppy Slippers	
+1072258	Kitty Slippers	
+1072259	Chick Slippers	
+1072260	Penguin Slippers	
+1072261	Yellow Strap Shoes	
+1072262	Black Strap Shoes	
+1072263	Green Strap Shoes	
+1072264	Silver Strap Shoes	
+1072265	Blue Soccer Cleats	
+1072266	Black Soccer Cleats	
+1072267	Red Soccer Cleats	
+1072268	Blue Elemental Shoes	
+1072269	Red Hunter Shoes	
+1072272	Black Garina Shoes	
+1072273	Blue Dragon Boots	
+1072274	Moon Bunny Paws	
+1072275	Fonla's Slippers	
+1072276	Booster Shoes	
+1072277	Red Elf shoes	
+1072278	Rudolph Slippers	
+1072279	Super Booster Shoes	
+1072280	Golden Shoes	
+1072281	Sachiel Shoes	
+1072282	Veamoth Shoes	
+1072283	Janus Shoes	
+1072284	Zhu Ba Jie Shoes	
+1072322	Rollerskates	
+1072323	Starry Slippers	
+1072324	Piggy Slippers	
+1072325	Red Slime Slippers	
+1072326	Yellow Slime Slippers	
+1072327	Tania En Fuego	
+1072328	Mercury Lighning	
+1072329	Flipped Blue High Top	
+1072333	?????	
+1072334	?????	
+1072335	?????	
+1072336	Soccer Kit	
+1072337	Fluffy Slippers	
+1072342	Bosshunter Greaves	
+1072343	Bosshunter Boots	
+1072344	Facestompers	
+1072345	Bosshunter Greaves	
+1072346	Bosshunter Boots	
+1072347	Olive Green Kicks	
+1072348	Elephant Slippers	
+1070014	Veras Heels [m]	
+1070015	Bunny Boots [m]	
+1071024	Black Dress Shoes [f]	
+1071025	Paris Wingtips [f]	

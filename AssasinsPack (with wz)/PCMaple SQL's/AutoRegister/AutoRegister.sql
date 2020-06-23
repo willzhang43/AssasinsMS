@@ -1,0 +1,1 @@
+ALTER TABLE `accounts` ADD COLUMN `lastknownip` VARCHAR(30) NOT NULL DEFAULT '' AFTER `macs`;

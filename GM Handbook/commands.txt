@@ -1,0 +1,56 @@
+List of ID's is by Rozene of odinms.de, modified slightly by Sathon.	
+	
+Command	Effect	Arguments
+!map <mapID>	Warps you to map of <mapID>	
+!jail <charname>	Sends character to “Flying Bird” jail, cannot escape.	
+!jail 2 <charname>	Sends character to Zakum jail, can pay 10mil mesos to escape.	
+!lolcastle <level>	Warps you to Field of Judgment map of <level>	<level> is 1 – 5
+!warp <charname>	Warps you to player with <charname>	
+!warp <charname> <mapID>	Warps player with <charname> to map of <mapID>	
+!toggleoffense <offence>	Gives player an <offence>	FASTATTACK --- MOVE_MONSTERS --- TUBI --- FAST_HP_REGEN --- FAST_MP_REGEN --- SAME_DAMAGE --- ATTACK_WITHOUT_GETTING_HIT --- HIGH_DAMAGE --- ATTACK_FARAWAY_MONSTER --- REGEN_HIGH_HP --- ITEMVAC --- SHORT_ITEMVAC --- USING_FARAWAY_PORTAL --- FAST_TAKE_DAMAGE --- FAST_MOVE --- HIGH_JUMP --- MISMATCHING_BULLETCOUNT --- ETC_EXPLOSION --- FAST_SUMMON_ATTACK --- ATTACKING_WHILE_DEAD
+!warphere <charname>	Warps player with <charname> to you.	
+!spawn <monsterid> <count> <hp> <exp>	Spawns <amount> of <monsteris>	Optional args: Spawn with <hp> amount of HP and gives <exp> amount of exp.
+!servermessage <message>	Changes scrolling top message at top of screen to <message>	
+!array	...Random "Array" in chat message.	
+!notice <w|c|m> <message>	Announces <message> to designated group.	w = to server, c = to channel, m = to map
+!notice <w|c|m> [n | p | l | nv | v | b] <message>	Announces <message> to designated group.	n = blue notice, p = dialog notice, l = white notice, nv = [Notice] red, v = red without [Notice], b = blue without [Notice]
+!job <jobid>	Changes your job.	
+!clock <seconds>	Shows "Time Left" Clock... Another test command.	
+!pill <amount>	Gives Dexterity Pill.	
+!item <itemid> <amount>	Gives you <amount> of item with <itemid>	
+!drop <itemid> <amount>	Drops <amount> of item with <itemid>	
+!shop	Opens GM shop, accessed anywhere	
+!equip	Opens GM equip shop, accessed anywhere	
+!clearshops	Reloads shop database.	
+!cleardrops	Reloads drop database.	
+!clearevents	Reloads events.	
+!clearquest <questid>	Resets quest to "NOT_STARTED".	
+!gps	Unused Test Command.	
+!sp <number>	Sets your SP to <number>	
+!fakerelog	Removes you from map and then Adds you back to spawn point.	
+!test	Test command, not used.	
+!dc <charname>	Disconnects user from server.	
+!charinfo	Shows Character ID, x and y position, currentHP/MaxHP, currentMP/MaxMP, Experience, If they are in a Party or Trade, If they are connected, and some debug stuff.	
+!ban <charname> <reason>	Bans <charname> from the server. Bans Account, IP and MAC Address.	
+!levelup	Levels you up 1 level.	
+!whereami	Shows the ID of the map you are on.	
+!version	Shows Revision Info.	
+!connected	Shows number of clients connected to the server.	
+!whosthere	Shows players on the map.	
+!shutdown		
+!shutdownworld		
+!shutdownnow		
+!timerdebug		
+!threads		
+!showtrace		
+!dumpthreads		
+!reloadops		
+!killall	Kills all monsters on map.	
+!monsterdebug	Shows info of all monsters on map.	
+!skill <skillid> <level> <masterlevel>	Adds skill points to skillid.	
+!spawndebug		
+!door	Makes door. Test Command, don't use this.	
+!tdrops	Toggles monster drops on and off for that map.	
+!lowhp	Sets hp to 1 and mp to 500.	
+!fullhp	Gets players maxHP not counting items additions and sets HP to that.	
+!cheaters	Shows players that are suspected of cheating. 	

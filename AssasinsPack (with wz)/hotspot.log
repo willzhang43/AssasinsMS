@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hotspot_log version='160 1' process='2104' time_ms='1214799241278'>
+<vm_version>
+<name>
+Java HotSpot(TM) Client VM
+</name>
+<release>
+11.0-b12-fastdebug
+</release>
+<info>
+Java HotSpot(TM) Client VM (11.0-b12-fastdebug) for windows-x86 JRE (1.6.0_10-beta-fastdebug-b25), built on May 29 2008 02:29:48 by &quot;java_re&quot; with MS VC++ 7.1
+</info>
+</vm_version>
+<vm_arguments>
+<args>
+-Xmx500m -Dnet.sf.odinms.recvops=recvops.properties -Dnet.sf.odinms.sendops=sendops.properties -Dnet.sf.odinms.wzpath=wz\ -Dnet.sf.odinms.login.config=login.properties -Dnet.sf.odinms.listwz=true -Djavax.net.ssl.keyStore=login.keystore -Djavax.net.ssl.keyStorePassword=passwd -Djavax.net.ssl.trustStore=login.truststore -Djavax.net.ssl.trustStorePassword=passwd 
+</args>
+<command>
+net.sf.odinms.net.login.LoginServer
+</command>
+<launcher>
+SUN_STANDARD
+</launcher>
+<properties>
+java.vm.specification.version=1.0
+java.vm.specification.name=Java Virtual Machine Specification
+java.vm.specification.vendor=Sun Microsystems Inc.
+java.vm.version=11.0-b12-fastdebug
+java.vm.name=Java HotSpot(TM) Client VM
+java.vm.vendor=Sun Microsystems Inc.
+java.vm.info=mixed mode, sharing
+java.ext.dirs=C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+java.endorsed.dirs=C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\endorsed
+sun.boot.library.path=C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\bin
+java.library.path=C:\Program Files\Java\jdk1.6.0_10\fastdebug\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Java\jdk1.6.0_10\fastdebug\bin;Program Files\Subversion\bin;C:\Program Files\QuickTime\QTSystem\
+java.home=C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre
+java.class.path=.;dist\odinms.jar;dist\mina-core.jar;dist\slf4j-api.jar;dist\slf4j-jdk14.jar;dist\mysql-connector-java-bin.jar
+sun.boot.class.path=C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\resources.jar;C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\rt.jar;C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\jce.jar;C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.6.0_10\fastdebug\jre\classes
+net.sf.odinms.recvops=recvops.properties
+net.sf.odinms.sendops=sendops.properties
+net.sf.odinms.wzpath=wz\
+net.sf.odinms.login.config=login.properties
+net.sf.odinms.listwz=true
+javax.net.ssl.keyStore=login.keystore
+javax.net.ssl.keyStorePassword=passwd
+javax.net.ssl.trustStore=login.truststore
+javax.net.ssl.trustStorePassword=passwd
+sun.java.launcher=SUN_STANDARD
+</properties>
+</vm_arguments>
+<tty>
+<writer thread='3460'/>
+C1 Runtime statistics:
+ _resolve_invoke_virtual_cnt:     54
+ _resolve_invoke_opt_virtual_cnt: 91
+ _resolve_invoke_static_cnt:      50
+ _handle_wrong_method_cnt:        0
+ _ic_miss_cnt:                    27
+ _generic_arraycopy_cnt:          0
+ _primitive_arraycopy_cnt:        10513
+ _oop_arraycopy_cnt:              0
+ _arraycopy_slowcase_cnt:         0
+ _new_type_array_slowcase_cnt:    0
+ _new_object_array_slowcase_cnt:  0
+ _new_instance_slowcase_cnt:      3
+ _new_multi_array_slowcase_cnt:   2
+ _monitorenter_slowcase_cnt:      0
+ _monitorexit_slowcase_cnt:       0
+ _patch_code_slowcase_cnt:        34
+ _throw_range_check_exception_count:            0:
+ _throw_index_exception_count:                  0:
+ _throw_div0_exception_count:                   0:
+ _throw_null_pointer_exception_count:           0:
+ _throw_class_cast_exception_count:             0:
+ _throw_incompatible_class_change_error_count:  0:
+ _throw_array_store_exception_count:            0:
+ _throw_count:                                  0:
+
+<statistics type='nmethod'>
+Statistics for 7 native nmethods:
+ N. total size  = 4232
+ N. relocation  = 400
+ N. main code   = 2496
+Statistics for 189 bytecoded nmethods:
+ total in heap  = 483360
+ relocation     = 34304
+ main code      = 162000
+ stub code      = 18539
+ constants      = 77
+ scopes data    = 113272
+ scopes pcs     = 103152
+ dependencies   = 832
+ handler table  = 8088
+ nul chk table  = 6040
+ oops           = 1912
+Debug Data Chunks: 17344, shared 1957+5294, non-SP&apos;s elided 155
+PcDesc Statistics:  962 queries, 15.45 comparisons per query
+  caches=189 queries=962/0, hits=0+89, tests=4709+10157, adds=873
+</statistics>
+<writer thread='3080'/>
+<destroy_vm stamp='5.139'/>
+<tty_done stamp='5.317'/>
+</tty>
+<hotspot_log_done stamp='5.317'/>
+</hotspot_log>
+
+</hotspot_log>

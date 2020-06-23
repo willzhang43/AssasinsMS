@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cheng xianhao/Desktop/Repack 1000/dist/exttools.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cheng xianhao/Desktop/Repack 1000/dist/mina-core.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cheng xianhao/Desktop/Repack 1000/dist/mysql-connector-java-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cheng xianhao/Desktop/Repack 1000/dist/odinms.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cheng xianhao/Desktop/Repack 1000/dist/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/cheng xianhao/Desktop/Repack 1000/dist/slf4j-jdk14.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
